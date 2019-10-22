@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width">
+      <link href="assets/css/style.css" rel="stylesheet" />
+      <title>{%title%} | {%Name%}</title>
+   </head>
+   <body>
+      <h1 align="center">{%title%}</h1>
+      <div id="centered">
+         <h3 align="center">Ada Programming Language</h3>
+         <dl>
+         @@TABLE@@
+            <dt><a href="{%adalinks%}">{%adalinkstext%}</a></dt>
+            <dd>{%adalinksdesc%}</dd>
+         @@END_TABLE@@
+         </dl>
+         <h3 align="center">Various</h3>
+         <dl>
+         @@TABLE@@
+            <dt><a href="{%variouslinks%}">{%variouslinkstext%}</a></dt>
+            <dd>{%variouslinksdesc%}</dd>
+         @@END_TABLE@@
+         </dl>
+         <h3 align="center">About Laeran.pl</h3>
+         <dl>
+         @@TABLE@@
+            <dt><a href="{%aboutlinks%}">{%aboutlinkstext%}</a></dt>
+            <dd>{%aboutlinksdesc%}</dd>
+         @@END_TABLE@@
+         </dl>
+      </div>
+      <footer>
+         <p align="center">Contact: <a href="https://matrix.to/#/@thindil:matrix.org">@thindil:matrix.org</a>. Generated: {%NOW%} with <a href="https://yet-another-static-site-generator.github.io/">Yass</a>.</p>
+      </footer>
+   </body>
+</html>

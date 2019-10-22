@@ -1,0 +1,32 @@
+-- layout: index
+-- title: Table of Contents
+-- adalinks: []
+-- adalinkstext: []
+-- adalinksdesc: []
+-- variouslinks: []
+-- variouslinkstext: []
+-- variouslinksdesc: []
+-- aboutlinks: []
+-- aboutlinkstext: []
+-- aboutlinksdesc: []
+-- adalinks: adaconference/
+-- adalinkstext: Ada Virtual Conference (EN)
+-- adalinksdesc: General information about Ada Virtual Conference project, orgranization and calendar.
+-- adalinks: adaplanet/
+-- adalinkstext: Ada Planet (EN)
+-- adalinksdesc: News from the Ada programming language world. Collection of RSS feeds from various pages.
+-- adalinks: adaroom.html
+-- adalinkstext: Ada Programming Language Matrix room (EN)
+-- adalinksdesc: Information what Ada Programming Language Matrix room is, how to connect to it and what is available there.
+-- variouslinks: links/
+-- variouslinkstext: List of links (Shaarli) (EN)
+-- variouslinksdesc: Some interesting links to different places on the web
+-- variouslinks: search/
+-- variouslinkstext: Web search (Searx) (Multilanguage)
+-- variouslinksdesc: A privacy-respecting, metasearch engine.
+-- aboutlinks: privacy.html
+-- aboutlinkstext: Terms of service and Privacy (EN)
+-- aboutlinksdesc: Terms of service of this server and policy privacy for most pages here.
+-- aboutlinks: contact.html
+-- aboutlinksdesc: How to contact with administrator of this page.
+-- aboutlinkstext: Contact page (EN)
