@@ -11,14 +11,6 @@ My name is Bartek Jasicki (nickname `thindil`) and I own the website published a
 
 ## What personal data we collect, why we collect it, and how long we retain it
 
-### Links (Shaarli)
-
-Entering links list, cause creation on your computer cookie file called `shaarli` with your session identifier. It will be deleted when you left the page and create new when you back. There no any other data collected on this page.
-
-### Web search (Searx)
-
-Web search by default don't create any computer cookie file, even when you use it. Only when you want to save your preferences it will create few computer cookie files. Their names and what are they store depends on your saved preferences of web search. You can always view them on `Preferences` -> `Cookies` page.
-
 ### Ada Planet (FreshRSS)
 
 Entering RSS aggregator cause creating on your computer cookie file called `FreshRSS` with your session identifier. It will be deleted when you left the page and create new when you back. There no any other data collected on this page.
@@ -37,11 +29,11 @@ I don't use analytic services, so I can't share the visitor statistics with anyo
 
 ### How I protect your data
 
-The data (emails, passwords and IP) are protected and the files can be accessed only via SSH with code access of the server. I am the only person with this access right now. It is not possible to access this folder via public access.
+The data and the files can be accessed only via SSH with code access of the server. I am the only person with this access right now. It is not possible to access this folder via public access.
 
 ### What data breach/moderation procedures we have in place
 
-If I notice any breach to the server I promise to inform you immediately at least on the main page. Additionally, all accounts will be have rested passwords (to some random letters and numbers). I will never ask you about your password to your wiki or Gitea account.
+If I notice any breach to the server I promise to inform you immediately at least on the main page. 
 
 Thank you for reading. If something is unclear or missing here, please contact with me, by contact link below or check [Contact page](contact.html) for more options.
 
