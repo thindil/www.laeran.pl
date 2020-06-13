@@ -6,10 +6,7 @@
 -- aboutlinks: []
 -- aboutlinkstext: []
 -- aboutlinksdesc: []
--- adalinks: adaconference/
--- adalinkstext: Ada Virtual Conference (EN)
--- adalinksdesc: General information about Ada Virtual Conference project, orgranization and calendar.
--- adalinks: adaplanet/
+-- adalinks: adaplanet/i/
 -- adalinkstext: Ada Planet (EN)
 -- adalinksdesc: News from the Ada programming language world. Collection of RSS feeds from various pages.
 -- adalinks: adaroom.html
