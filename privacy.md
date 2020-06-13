@@ -15,10 +15,6 @@ My name is Bartek Jasicki (nickname `thindil`) and I own the website published a
 
 Entering RSS aggregator cause creating on your computer cookie file called `FreshRSS` with your session identifier. It will be deleted when you left the page and create new when you back. There no any other data collected on this page.
 
-### Ada Virtual Conferences
-
-This page have own privacy policy page, please go check [there](https://www.laeran.pl/adaconference/privacy-policy/).
-
 ### Embedded content from other websites
 
 Texts on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website. (e.g. Embedding a Youtube video player ).
