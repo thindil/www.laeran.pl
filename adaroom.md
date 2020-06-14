@@ -13,15 +13,8 @@
 
 ## RSS Bot
 
-There is invited RSS bot to the room, which monitor few RSS/Atom feeds:
-
-- Last messages to [Ada subreddit](https://www.reddit.com/r/ada/)
-- Last questions tagged with #ada on [StackOverflow](https://stackoverflow.com/questions/tagged/ada)
-- Last topics in [comp.lang.ada](https://groups.google.com/forum/#!forum/comp.lang.ada)
-  Usenet group
-
-If you want to add any other RSS/Atom feed feel free to contact with me
-(contact options are at the end of this page).
+There is invited RSS bot to the room, which monitor [the Ada Planet](adaplanet/i/) feed.
+If you want to add any other RSS/Atom feed feel free to [contact](contact.html) with me.
 
 ## Connecting via email
 
@@ -37,14 +30,5 @@ by email to the Matrix room, you can find [here](https://t2bot.io/email).
 
 It is possible to connect the room with others communications service
 providers like IRC, Gitter, Discord, Telegram to name few. Again, if you want
-to connect your room in any of this communicators, feel free to contact with
-me. Full list of available bridges you can find [here](https://matrix.org/docs/projects/bridges).
-
-## Contact
-
-If you have any questions, problems or ideas feel free to catch me:
-
-- Matrix: room or link which is in the page footer (preferred option).
-- IRC: thindil at freenode.net (mostly in #ada room).
-- Gitter: thindil in [Ada-Lang/Lobby room](https://gitter.im/ada-lang/Lobby)
-- Email: thindil at this domain without `www`
+to connect your room in any of this communicators, feel free to [contact](contact.html)
+with me.
