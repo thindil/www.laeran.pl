@@ -3,7 +3,6 @@
 If you need to contact with me in any case, you have few options:
 
 - Matrix: Link which is in the page footer (preferred option).
-- Telegram: [thindil](https://t.me/thindil)
 - Email: thindil at laeran.pl
 - Mastodon: [thindil at mastodon.social](https://mastodon.social/@thindil)
 
