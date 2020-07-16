@@ -9,6 +9,9 @@
 -- adalinks: adaplanet/i/
 -- adalinkstext: Ada Planet (EN)
 -- adalinksdesc: News from the Ada programming language world. Collection of RSS feeds from various pages.
+-- adalinks: adasearch/
+-- adalinkstext: Ada Search (EN)
+-- adalinksdesc: Google powered search engine focused on th Ada programming language and SPARK.
 -- adalinks: adaroom.html
 -- adalinkstext: Ada Programming Language Matrix room (EN)
 -- adalinksdesc: Information what Ada Programming Language Matrix room is, how to connect to it and what is available there.
