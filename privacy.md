@@ -17,7 +17,7 @@ Entering RSS aggregator cause creating on your computer cookie file called `Fres
 
 ### Ada Search (Google Custom Search engine)
 
-This page is mostly embedded Google Custom Search engine thus it uses [https://policies.google.com/privacy?hl=en-US](Google Privacy and Terms) rules. I don't add any cookies or tracking scripts there.
+This page is mostly embedded Google Custom Search engine thus it uses [https://policies.google.com/privacy](Google Privacy and Terms) rules. I don't add any cookies or tracking scripts there.
 
 ### Embedded content from other websites
 
