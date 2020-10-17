@@ -17,7 +17,7 @@ a:hover {
 }
 
 a.image:hover {
-	background-color: rgb(23,23,23);
+   background-color: rgb(23,23,23);
 }
 
 h1, h2, h3 {
@@ -30,7 +30,7 @@ dl {
 }
 
 #content {
-   width: 95%;
+   width: 70%;
    margin: 0 auto;
 }
 
@@ -41,8 +41,8 @@ dl {
    border-radius: 10px;
 }
 
-@media screen and (max-width: 900px) { 
-	#centered {
-		min-width: 95%;
-	} 
+@media screen and (max-width: 900px) {
+   #centered {
+      min-width: 95%;
+   }
 }

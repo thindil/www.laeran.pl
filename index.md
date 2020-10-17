@@ -3,6 +3,9 @@
 -- adalinks: []
 -- adalinkstext: []
 -- adalinksdesc: []
+-- otherlinks: []
+-- otherlinkstext: []
+-- otherlinksdesc: []
 -- aboutlinks: []
 -- aboutlinkstext: []
 -- aboutlinksdesc: []
@@ -15,6 +18,9 @@
 -- adalinks: adaroom.html
 -- adalinkstext: Ada Programming Language Matrix room (EN)
 -- adalinksdesc: Information what Ada Programming Language Matrix room is, how to connect to it and what is available there.
+-- otherlinks: blog/index.html
+-- otherlinkstext: Personal blog
+-- otherlinksdesc: Random thoughts about random things.
 -- aboutlinks: privacy.html
 -- aboutlinkstext: Terms of service and Privacy (EN)
 -- aboutlinksdesc: Terms of service of this server and policy privacy for most pages here.
