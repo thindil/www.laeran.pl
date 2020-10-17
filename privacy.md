@@ -19,6 +19,10 @@ Entering RSS aggregator cause creating on your computer cookie file called `Fres
 
 This page is mostly embedded Google Custom Search engine thus it uses [Google Privacy and Terms](https://policies.google.com/privacy) rules. I don't add any cookies or tracking scripts there.
 
+### Blog
+
+The blog doesn't create any cookies or store any data on your computer, it is the set of static webpages.
+
 ### Embedded content from other websites
 
 Texts on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website. (e.g. Embedding a Youtube video player ).
@@ -33,7 +37,7 @@ The data and the files can be accessed only via SSH with code access of the serv
 
 ### What data breach/moderation procedures we have in place
 
-If I notice any breach to the server I promise to inform you immediately at least on the main page. 
+If I notice any breach to the server I promise to inform you immediately at least on the main page.
 
 Thank you for reading. If something is unclear or missing here, please contact with me, by contact link below or check [Contact page](contact.html) for more options.
 
