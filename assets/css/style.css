@@ -41,8 +41,12 @@ dl {
    border-radius: 10px;
 }
 
+.center {
+   text-align: center;
+}
+
 @media screen and (max-width: 900px) {
-   #centered {
+   #centered, #content {
       min-width: 95%;
    }
 }

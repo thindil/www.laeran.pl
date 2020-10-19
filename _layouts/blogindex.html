@@ -3,19 +3,20 @@
    <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width">
-      <link href="../../assets/css/style.css" rel="stylesheet" />
+      <link href="../assets/css/style.css" rel="stylesheet" />
       <title>{%title%} | {%Name%}</title>
    </head>
    <body>
       <h1 class="center">{%title%}</h1>
       <div id="content">
-         @@IF@@ {%EXIST:summary%}
-         <details>
-            <summary>{%summary%}</summary>
-            {%details%}
-         </details>
-         @@END_IF@@
          {%Content%}
+         <h3 align="center">Last posts</h3>
+         <dl>
+         @@TABLE@@
+            <dt><a href="{%bloglinks%}">{%bloglinkstext%}</a></dt>
+            <dd>{%bloglinksdesc%}</dd>
+         @@END_TABLE@@
+         </dl>
          <p><a href="../index.html">Back</a></p>
       </div>
       <footer>

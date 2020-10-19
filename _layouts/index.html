@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
    <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width">
@@ -7,23 +7,23 @@
       <title>{%title%} | {%Name%}</title>
    </head>
    <body>
-      <h1 align="center">{%title%}</h1>
+      <h1 class="center">{%title%}</h1>
       <div id="centered">
-         <h3 align="center">Ada Programming Language</h3>
+         <h3 class="center">Ada Programming Language</h3>
          <dl>
          @@TABLE@@
             <dt><a href="{%adalinks%}">{%adalinkstext%}</a></dt>
             <dd>{%adalinksdesc%}</dd>
          @@END_TABLE@@
          </dl>
-         <h3 align="center">Other</h3>
+         <h3 class="center">Other</h3>
          <dl>
          @@TABLE@@
             <dt><a href="{%otherlinks%}">{%otherlinkstext%}</a></dt>
             <dd>{%otherlinksdesc%}</dd>
          @@END_TABLE@@
          </dl>
-         <h3 align="center">About Laeran.pl</h3>
+         <h3 class="center">About Laeran.pl</h3>
          <dl>
          @@TABLE@@
             <dt><a href="{%aboutlinks%}">{%aboutlinkstext%}</a></dt>
@@ -32,7 +32,7 @@
          </dl>
       </div>
       <footer>
-         <p align="center">Contact: <a href="https://matrix.to/#/@thindil:matrix.org">@thindil:matrix.org</a>. Generated: {%NOW%} with <a href="https://yet-another-static-site-generator.github.io/">Yass</a>.</p>
+         <p class="center">Contact: <a href="https://matrix.to/#/@thindil:matrix.org">@thindil:matrix.org</a>. Generated: {%NOW%} with <a href="https://yet-another-static-site-generator.github.io/">Yass</a>.</p>
       </footer>
    </body>
 </html>
