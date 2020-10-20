@@ -6,14 +6,13 @@ The website [https://www.laeran.pl/](https://www.laeran.pl/) is hosted in Poland
 
 ## Who we are
 
-My name is Bartek Jasicki (nickname `thindil`) and I own the website published at the address [https://www.laeran.pl/](https://www.laeran.pl/
-). Therefore, I'm the only responsible for managing your data collected on the mentioned website (except about "embedded content from other websites", see below).
+My name is Bartek Jasicki (nickname `thindil`) and I own the website published at the address [https://www.laeran.pl/](https://www.laeran.pl/). Therefore, I'm the only responsible for managing your data collected on the mentioned website (except about "embedded content from other websites", see below).
 
 ## What personal data we collect, why we collect it, and how long we retain it
 
 ### Ada Planet (FreshRSS)
 
-Entering RSS aggregator cause creating on your computer cookie file called `FreshRSS` with your session identifier. It will be deleted when you left the page and create new when you back. There no any other data collected on this page.
+Entering RSS aggregator cause creating on your computer cookie file called `FreshRSS` with your session identifier. It will be deleted when you left the page and create new when you back. There no other data collected on this page.
 
 ### Ada Search (Google Custom Search engine)
 
@@ -25,11 +24,11 @@ The blog doesn't create any cookies or store any data on your computer, it is th
 
 ### Embedded content from other websites
 
-Texts on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website. (e.g. Embedding a Youtube video player ).
+Texts on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website. (e.g. Embedding a Youtube video player).
 
 ### Analytics
 
-I don't use analytic services, so I can't share the visitor statistics with anyone (I don't use Google Analytics or other scripts to track you). I don't do any automated decision making and/or profiling on the user data.
+I don't use analytic services, so I can't share the visitor statistics with anyone (I don't use Google Analytics or other scripts to track you). I don't do any automated decision-making and/or profiling on the user data.
 
 ### How I protect your data
 
