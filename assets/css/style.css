@@ -1,5 +1,5 @@
 html, body {
-   background-color: rgb(23,23,23);
+   background-color: #171717;
    color: rgb(238,232,170);
    font-family: Verdana, serif;
 }
@@ -11,13 +11,13 @@ a, a:visited, a:active {
 }
 
 a:hover {
-   background-color: #073642;
    border-color: #073642;
    color: rgb(255,223,0);
+   text-decoration: underline;
 }
 
 a.image:hover {
-   background-color: rgb(23,23,23);
+   background-color: #171717;
 }
 
 h1, h2, h3 {
@@ -30,23 +30,43 @@ dl {
 }
 
 #content {
-   width: 70%;
+   width: 80%;
    margin: 0 auto;
 }
 
 #centered {
    width: 80%;
    margin: 0 auto;
-   border: 1px solid #504945;
+   padding: 10px;
+   background-color: #141414;
    border-radius: 10px;
+   box-shadow: inset 0 1px 10px rgba(0,0,0,0.3), 0 1px 0 rgba(255,255,255,0.1), 0 -1px 0 rgba(0,0,0,0.5);
 }
 
 .center {
    text-align: center;
 }
 
+.title {
+   background-color: #282828;
+   text-align: center;
+   border-radius: 10px;
+   box-shadow: 0 1px 10px rgba(0,0,0,0.3), 0 1px 0 rgba(255,255,255,0.1), 0 1px 0 rgba(0,0,0,0.5);
+   color: #d65d0e;
+   width: 80%;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+a.back {
+   background-color: #282828;
+   padding: 5px 10px 5px 10px;
+   border-radius: 10px;
+   box-shadow: 0 1px 10px rgba(0,0,0,0.3), 0 1px 0 rgba(255,255,255,0.1), 0 1px 0 rgba(0,0,0,0.5);
+}
+
 @media screen and (max-width: 900px) {
-   #centered, #content {
+   #centered, #content, .title {
       min-width: 95%;
    }
 }

@@ -7,9 +7,11 @@
       <title>{%title%} | {%Name%}</title>
    </head>
    <body>
-      <h1 class="center">{%title%}</h1>
+      <h1 class="title">{%title%}</h1>
       <div id="content">
          {%Content%}
+      </div>
+      <div id="centered">
          <h3 align="center">Last posts</h3>
          <dl>
          @@TABLE@@
@@ -17,7 +19,9 @@
             <dd>{%bloglinksdesc%}</dd>
          @@END_TABLE@@
          </dl>
-         <p><a href="../index.html">Back</a></p>
+      </div>
+      <div id="content">
+         <p><a class="back" href="../index.html">Back</a></p>
       </div>
       <footer>
          <p class="center">Contact: <a href="https://matrix.to/#/@thindil:matrix.org">@thindil:matrix.org</a>. Generated: {%NOW%} with <a href="https://yet-another-static-site-generator.github.io/">Yass</a>.</p>
