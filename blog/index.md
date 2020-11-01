@@ -3,6 +3,9 @@
 -- bloglinks: []
 -- bloglinkstext: []
 -- bloglinksdesc: []
+-- bloglinks: posts/weekly-development-report-2020-10-31.html
+-- bloglinkstext: Weekly development report 2020-10-31
+-- bloglinksdesc: Weekly report from my Open Source projects
 -- bloglinks: posts/weekly-development-report-2020-10-24.html
 -- bloglinkstext: Weekly development report 2020-10-24
 -- bloglinksdesc: Weekly report from my Open Source projects
