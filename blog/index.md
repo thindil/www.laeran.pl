@@ -3,6 +3,9 @@
 -- bloglinks: []
 -- bloglinkstext: []
 -- bloglinksdesc: []
+-- bloglinks: posts/how-to-set-browser-to-i2p.html
+-- bloglinkstext: How to set up web browser for browsing I2P network
+-- bloglinksdesc: Alternate guide how to set proxy in desktop/android for browsing I2P network
 -- bloglinks: posts/weekly-development-report-2020-11-28.html
 -- bloglinkstext: Weekly development report 2020-11-28
 -- bloglinksdesc: Weekly report from my Open Source projects
@@ -24,4 +27,6 @@
 -- bloglinks: posts/weekly-development-report-2020-10-17.html
 -- bloglinkstext: Weekly development report 2020-10-17
 -- bloglinksdesc: Weekly report from my Open Source projects
-Welcome to my blog. Below you can find the list of all posts on the blog.
+Welcome to my blog. Below you can find the list of all posts on the blog. All
+the blog entries are available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+license.
