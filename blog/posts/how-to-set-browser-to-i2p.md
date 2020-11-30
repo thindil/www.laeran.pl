@@ -2,10 +2,10 @@
 -- title: How to set browser to I2P
 From [the official site](https://geti2p.net/en/):
 
-    I2P is an anonymous network built on top of the internet. It allows users
-    to create and access content and build online communities on a network
-    that is both distributed and dynamic. It is intended to protect
-    communication and resist monitoring by third parties such as ISPs.
+> I2P is an anonymous network built on top of the internet. It allows users
+> to create and access content and build online communities on a network
+> that is both distributed and dynamic. It is intended to protect
+> communication and resist monitoring by third parties such as ISPs.
 
 Official guide how to configure web browser you can find in the project
 [documentation](https://geti2p.net/en/about/browser-config). Here I want to
