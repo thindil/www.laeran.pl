@@ -3,6 +3,9 @@
 -- bloglinks: []
 -- bloglinkstext: []
 -- bloglinksdesc: []
+-- bloglinks: posts/weekly-development-report-2020-12-05.html
+-- bloglinkstext: Weekly development report 2020-12-05
+-- bloglinksdesc: Weekly report from my Open Source projects
 -- bloglinks: posts/how-to-set-browser-to-i2p.html
 -- bloglinkstext: How to set up web browser for browsing I2P network
 -- bloglinksdesc: Alternate guide how to set proxy in desktop/android for browsing I2P network
