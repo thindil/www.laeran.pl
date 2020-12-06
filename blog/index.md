@@ -3,6 +3,9 @@
 -- bloglinks: []
 -- bloglinkstext: []
 -- bloglinksdesc: []
+-- bloglinks: posts/how-can-we-help-fight-covid.html
+-- bloglinkstext: How can we help fight COVID-19
+-- bloglinksdesc: Short article about how to contribute your computer or smartphone to help find cure for the pandemic
 -- bloglinks: posts/weekly-development-report-2020-12-05.html
 -- bloglinkstext: Weekly development report 2020-12-05
 -- bloglinksdesc: Weekly report from my Open Source projects
