@@ -18,8 +18,11 @@
 -- adalinks: adaroom.html
 -- adalinkstext: Ada Programming Language Matrix room (EN)
 -- adalinksdesc: Information what Ada Programming Language Matrix room is, how to connect to it and what is available there.
+-- otherlinks: repositories
+-- otherlinkstext: Open Source Projects (EN)
+-- otherlinksdesc: The list of Fossil repositories of my Open Source Projects
 -- otherlinks: blog/index.html
--- otherlinkstext: Personal blog
+-- otherlinkstext: Personal blog (EN)
 -- otherlinksdesc: Random thoughts about random things.
 -- aboutlinks: privacy.html
 -- aboutlinkstext: Terms of service and Privacy (EN)
