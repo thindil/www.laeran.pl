@@ -18,9 +18,9 @@ Entering RSS aggregator cause creating on your computer cookie file called `Fres
 
 This page is mostly embedded Google Custom Search engine thus it uses [Google Privacy and Terms](https://policies.google.com/privacy) rules. I don't add any cookies or tracking scripts there.
 
-### Blog
+### Open Source projects (Fossil repositories)
 
-The blog doesn't create any cookies or store any data on your computer, it is the set of static webpages.
+Entering any of the repository pages don't create any cookies. When you will log in (even on anonymous account), it will create cookie `fossil-[random characters]` with identificator for your account on the site and may create cookie `fossil_display_setting` which stores your various settings related to displaying the page (like timeline style, etc).
 
 ### Embedded content from other websites
 
