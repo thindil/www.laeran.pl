@@ -10,23 +10,23 @@
 -- aboutlinkstext: []
 -- aboutlinksdesc: []
 -- adalinks: adaplanet/i/
--- adalinkstext: Ada Planet (EN)
+-- adalinkstext: Ada Planet
 -- adalinksdesc: News from the Ada programming language world. Collection of RSS feeds from various pages.
 -- adalinks: adasearch/
--- adalinkstext: Ada Search (EN)
+-- adalinkstext: Ada Search
 -- adalinksdesc: Google powered search engine focused on th Ada programming language and SPARK.
 -- adalinks: adaroom.html
--- adalinkstext: Ada Programming Language Matrix room (EN)
+-- adalinkstext: Ada Programming Language Matrix room
 -- adalinksdesc: Information what Ada Programming Language Matrix room is, how to connect to it and what is available there.
 -- otherlinks: repositories
--- otherlinkstext: Open Source Projects (EN)
+-- otherlinkstext: Open Source Projects
 -- otherlinksdesc: The list of Fossil repositories of my Open Source Projects
 -- otherlinks: blog/index.html
--- otherlinkstext: Personal blog (EN)
+-- otherlinkstext: Personal blog
 -- otherlinksdesc: Random thoughts about random things.
 -- aboutlinks: privacy.html
--- aboutlinkstext: Terms of service and Privacy (EN)
+-- aboutlinkstext: Terms of service and Privacy
 -- aboutlinksdesc: Terms of service of this server and policy privacy for most pages here.
 -- aboutlinks: contact.html
 -- aboutlinksdesc: How to contact with administrator of this page.
--- aboutlinkstext: Contact page (EN)
+-- aboutlinkstext: Contact page
