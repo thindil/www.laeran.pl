@@ -14,9 +14,9 @@ My name is Bartek Jasicki (nickname `thindil`) and I own the website published a
 
 Entering RSS aggregator cause creating on your computer cookie file called `FreshRSS` with your session identifier. It will be deleted when you left the page and create new when you back. There no other data collected on this page.
 
-### Ada Search (Google Custom Search engine)
+### Ada Search (Google Custom Search and searchcode engines)
 
-This page is mostly embedded Google Custom Search engine thus it uses [Google Privacy and Terms](https://policies.google.com/privacy) rules. I don't add any cookies or tracking scripts there.
+This page is mostly embedded Google Custom Search engine thus it uses [Google Privacy and Terms](https://policies.google.com/privacy) and [saerchcode Privacy and Terms](https://searchcode.com/about/) rules. I don't add any cookies or tracking scripts there.
 
 ### Open Source projects (Fossil repositories)
 
