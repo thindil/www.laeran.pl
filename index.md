@@ -14,13 +14,10 @@
 -- adalinksdesc: News from the Ada programming language world. Collection of RSS feeds from various pages.
 -- adalinks: adasearch/
 -- adalinkstext: Ada Search
--- adalinksdesc: Google powered search engine focused on th Ada programming language and SPARK.
--- adalinks: adaroom.html
--- adalinkstext: Ada Programming Language Matrix room
--- adalinksdesc: Information what Ada Programming Language Matrix room is, how to connect to it and what is available there.
+-- adalinksdesc: Google and searchcode powered search engines focused on th Ada programming language and SPARK.
 -- otherlinks: repositories
 -- otherlinkstext: Open Source Projects
--- otherlinksdesc: The list of Fossil repositories of my Open Source Projects
+-- otherlinksdesc: The list of Fossil repositories of my Open Source Projects.
 -- otherlinks: blog/index.html
 -- otherlinkstext: Personal blog
 -- otherlinksdesc: Random thoughts about random things.
@@ -30,3 +27,6 @@
 -- aboutlinks: contact.html
 -- aboutlinksdesc: How to contact with administrator of this page.
 -- aboutlinkstext: Contact page
+-- aboutlinks: supportus.html
+-- aboutlinkstext: Support Us
+-- aboutlinksdesc: How to help the page and its author.
