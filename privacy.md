@@ -20,7 +20,7 @@ This page is mostly embedded Google Custom Search engine thus it uses [Google Pr
 
 ### Open Source projects (Fossil repositories)
 
-Entering any of the repository pages don't create any cookies. When you will log in (even on anonymous account), it will create cookie `fossil-[random characters]` with identificator for your account on the site and may create cookie `fossil_display_setting` which stores your various settings related to displaying the page (like timeline style, etc).
+Entering any of the repository pages don't create any cookies. When you will log in (even on anonymous account), it will create cookie `fossil-[random characters]` with identificator for your account on the site and may create cookie `fossil_display_setting` which stores your various settings related to displaying the page (like timeline style, etc). When you create an account in any repository, your login, email, password and IP will be saved in the database. Also, you can't delete your content there. If you want to do it, please contact with me, so I can do it for you. Everything what you post there is your and you have all rights to any of your content.
 
 ### Embedded content from other websites
 
