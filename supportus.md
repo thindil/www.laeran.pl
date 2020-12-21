@@ -42,6 +42,3 @@ done in a few ways:
     able even to give something completely anonymously. In [OpenCollective](https://opencollective.com/laeran)
     option, everything is open and visible to everyone. Even when and how
     much money I take :)
-
-[![Liberapay goal progress](https://img.shields.io/liberapay/goal/thindil?style=for-the-badge)](https://liberapay.com/thindil/)
-[![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/laeran?style=for-the-badge)](https://opencollective.com/laeran)
