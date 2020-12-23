@@ -1,5 +1,6 @@
 -- layout: blog
 -- title: Weekly development report 2020-12-12
+-- filename: blog/posts/weekly-development-report-2020-12-12.html
 Welcome to the weekly development report or what was done in my Open Source
 projects in the last week. This time, the introduction will be a bit longer. At
 the beginning of the week I (finally) discovered [Fossil SCM](https://www.fossil-scm.org/).

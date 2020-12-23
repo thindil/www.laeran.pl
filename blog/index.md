@@ -1,5 +1,6 @@
 -- layout: blogindex
 -- title: Random thoughts about random things.
+-- filename: blog/index.html
 -- bloglinks: []
 -- bloglinkstext: []
 -- bloglinksdesc: []

@@ -1,5 +1,6 @@
 -- layout: blog
 -- title: Weekly development report 2020-12-05
+-- filename: blog/posts/weekly-development-report-2020-12-05.html
 Welcome to the weekly development report or what was done in my Open Source
 projects in the last week.
 
