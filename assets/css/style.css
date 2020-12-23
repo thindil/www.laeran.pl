@@ -1,6 +1,6 @@
 html, body {
-   background-color: #171717;
-   color: rgb(238,232,170);
+   background-color: #303536;
+   color: #DDDDDD;
    font-family: Verdana, serif;
 }
 
@@ -21,7 +21,7 @@ a.image:hover {
 }
 
 h1, h2, h3 {
-   color: #cb4b16;
+   color: #DDDDDD;
 }
 
 dl {
@@ -38,7 +38,7 @@ dl {
    width: 80%;
    margin: 0 auto;
    padding: 10px;
-   background-color: #141414;
+   background-color: #1D2021;
    border-radius: 10px;
    box-shadow: inset 0 1px 10px rgba(0,0,0,0.3), 0 1px 0 rgba(255,255,255,0.1), 0 -1px 0 rgba(0,0,0,0.5);
 }
@@ -48,11 +48,8 @@ dl {
 }
 
 .title {
-   background-color: #282828;
    text-align: center;
-   border-radius: 10px;
-   box-shadow: 0 1px 10px rgba(0,0,0,0.3), 0 1px 0 rgba(255,255,255,0.1), 0 1px 0 rgba(0,0,0,0.5);
-   color: #d65d0e;
+   color: #888888;
    width: 80%;
    margin-left:auto;
    margin-right:auto;
