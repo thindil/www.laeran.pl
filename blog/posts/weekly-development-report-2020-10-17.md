@@ -1,5 +1,6 @@
 -- layout: blog
 -- title: Weekly development report 2020-10-17
+-- filename: blog/posts/weekly-development-report-2020-10-17.html
 Welcome to the first and I hope not last development report or what was done in
 my Open Source projects in the last week. At least this week was a bit
 productive :)
