@@ -13,7 +13,7 @@
 -- adalinks: adaplanet/i/
 -- adalinkstext: Ada Planet
 -- adalinksdesc: News from the Ada programming language world. Collection of RSS feeds from various pages.
--- adalinks: adasearch/
+-- adalinks: adasearch.html
 -- adalinkstext: Ada Search
 -- adalinksdesc: Google and searchcode powered search engines focused on th Ada programming language and SPARK.
 -- otherlinks: repositories
