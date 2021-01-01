@@ -1,6 +1,7 @@
 -- layout: blog
 -- title: Weekly development report 2020-12-19
 -- filename: blog/posts/weekly-development-report-2020-12-19.html
+-- Author: Bartek Jasicki
 Welcome to the weekly development report or what was done in my Open Source
 projects in the last week. The work on moving my Open Source projects slowly
 going forward. Another two repositories are migrated from Git to Fossil. But

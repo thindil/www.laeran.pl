@@ -1,6 +1,7 @@
 -- layout: default
 -- title: Contact page
 -- filename: contact.html
+-- Author: Bartek Jasicki
 If you need to contact with me in any case, you have few options:
 
 - Matrix: Link which is in the page footer (preferred option).
