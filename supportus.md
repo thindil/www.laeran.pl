@@ -1,7 +1,7 @@
 -- layout: default
 -- title: Support Us
 -- filename: supportus.html
--- Author: Bartek Jasicki
+-- author: Bartek Jasicki
 By "us" I mean me and my page :) Contrary to popular beliefs, support can be
 done in a few ways:
 

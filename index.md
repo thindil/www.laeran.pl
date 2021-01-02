@@ -1,7 +1,7 @@
 -- layout: index
 -- title: Table of Contents
 -- filename:
--- Author: Bartek Jasicki
+-- author: Bartek Jasicki
 -- adalinks: []
 -- adalinkstext: []
 -- adalinksdesc: []

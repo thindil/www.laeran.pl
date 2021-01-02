@@ -1,7 +1,7 @@
 -- layout: blog
 -- title: How can we help fight COVID-19
 -- filename: blog/posts/how-can-we-help-fight-covid.html
--- Author: Bartek Jasicki
+-- author: Bartek Jasicki
 The blog entry should probably appear around one year earlier. But it is better
 to be later than never. :) Anyway, back to the topic.
 
