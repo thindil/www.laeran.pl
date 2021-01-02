@@ -1,7 +1,7 @@
 -- layout: blog
 -- title: Weekly development report 2020-12-26
 -- filename: blog/posts/weekly-development-report-2020-12-26.html
--- Author: Bartek Jasicki
+-- author: Bartek Jasicki
 Welcome to the weekly development report or what was done in my Open Source
 projects in the last week. In this week only one project (Hunter) was moved
 to the Fossil, but with some problems. More details are below.

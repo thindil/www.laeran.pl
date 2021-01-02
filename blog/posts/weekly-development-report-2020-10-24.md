@@ -1,7 +1,7 @@
 -- layout: blog
 -- title: Weekly development report 2020-10-24
 -- filename: blog/posts/weekly-development-report-2020-10-24.html
--- Author: Bartek Jasicki
+-- author: Bartek Jasicki
 Welcome to the second development report or what was done in my Open Source
 projects in the last week.
 

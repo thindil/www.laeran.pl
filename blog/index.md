@@ -1,7 +1,7 @@
 -- layout: blogindex
 -- title: Random thoughts about random things.
 -- filename: blog/index.html
--- Author: Bartek Jasicki
+-- author: Bartek Jasicki
 -- bloglinks: []
 -- bloglinkstext: []
 -- bloglinksdesc: []
