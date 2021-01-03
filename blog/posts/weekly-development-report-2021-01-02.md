@@ -69,12 +69,12 @@ it too. More bindings for command `info` will be added later.
 
 *Graphical File Manager for Linux (written in Ada)*
 
-Finally finished moving packages to the proper directories. The code
+Finally, finished moving packages to the proper directories. The code
 documentation got some updates either. Also, added some labels to a few loops
 to make the code more readable. And at the end, started work on the main
 feature of this release: a console version of the program. At this moment I
 mostly remind myself how to use ncurses library. But some, very small work in
-the project organization and started work on the program menu in console. Also
+the project organization and started work on the program menu in console. Also,
 the project page got some work: added About page plus some documentation
 cleanup.
 
@@ -84,7 +84,7 @@ cleanup.
 
 All changes to the page are invisible for humans. Only small correction to
 setting default viewport for the page and added meta tag with information about
-the author of the page. Also the project page got small lifting.
+the author of the page. Also, the project page got small lifting.
 
 ### [Docker Ada](https://www.laeran.pl/repositories/dockerada)
 
@@ -92,5 +92,5 @@ the author of the page. Also the project page got small lifting.
 
 AdaBuild was updated with adding Ada binding for the ncurses library. It was
 needed for the new version of [Hunter](https://www.laeran.pl/repositories/hunter).
-Also documentation of the project got some updates. Now it should be easier to
+Also, documentation of the project got some updates. Now it should be easier to
 find the list of available Docker images.
