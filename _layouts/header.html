@@ -6,6 +6,9 @@
       @@IF@@ {%EXIST:author%}
       <meta name="author" content="{%author%}">
       @@END_IF@@
+      @@IF@@ {%EXIST:summary%}
+      <meta name="description" content="{%summary%}">
+      @@END_IF@@
       <link rel="canonical" href="{%BaseURL%}/{%filename%}" />
       <link href="{%BaseURL%}/assets/css/style.css" rel="stylesheet" />
       <title>{%title%} | {%Name%}</title>
