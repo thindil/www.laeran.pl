@@ -6,6 +6,9 @@
 -- bloglinks: []
 -- bloglinkstext: []
 -- bloglinksdesc: []
+-- bloglinks: posts/ada-mythology.html
+-- bloglinkstext: Ada Mythology
+-- bloglinksdesc: Various myths related to the Ada programming language and answers to them
 -- bloglinks: posts/weekly-development-report-2021-02-20.html
 -- bloglinkstext: Weekly development report 2021-02-20
 -- bloglinksdesc: Weekly report from my Open Source projects
