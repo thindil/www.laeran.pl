@@ -6,6 +6,9 @@
 -- bloglinks: []
 -- bloglinkstext: []
 -- bloglinksdesc: []
+-- bloglinks: posts/weekly-development-report-2021-05-01.html
+-- bloglinkstext: Weekly development report 2021-05-01
+-- bloglinksdesc: Weekly report from my Open Source projects
 -- bloglinks: posts/weekly-development-report-2021-04-24.html
 -- bloglinkstext: Weekly development report 2021-04-24
 -- bloglinksdesc: Weekly report from my Open Source projects
