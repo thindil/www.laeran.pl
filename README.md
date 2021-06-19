@@ -1,4 +1,4 @@
-It is [Yass](https://yet-another-static-site-generator.github.io/)
+It is [Yass](https://www.laeran.pl/repositories/yass)
 project to generate www.laeran.pl website.
 
 If you read this file on Github: **please don't send pull requests here**. All
