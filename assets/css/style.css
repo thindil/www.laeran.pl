@@ -72,6 +72,10 @@ blockquote {
    font-style: italic;
 }
 
+details {
+   padding-left: 20%;
+}
+
 @media screen and (max-width: 900px) {
    #centered, #content, .title {
       min-width: 95%;

@@ -3,162 +3,116 @@
 -- filename: blog/index.html
 -- author: Bartek Jasicki
 -- summary: Personal blog of Bartek Jasicki, random thoughts about random things. Mostly weekly reports from Open Source projects.
+-- devbloglinks: []
+-- devbloglinkstext: []
+-- devbloglinks: posts/weekly-development-report-2021-09-11.html
+-- devbloglinkstext: Weekly development report 2021-09-11
+-- devbloglinks: posts/weekly-development-report-2021-09-04.html
+-- devbloglinkstext: Weekly development report 2021-09-04
+-- devbloglinks: posts/weekly-development-report-2021-08-28.html
+-- devbloglinkstext: Weekly development report 2021-08-28
+-- devbloglinks: posts/weekly-development-report-2021-08-21.html
+-- devbloglinkstext: Weekly development report 2021-08-21
+-- devbloglinks: posts/weekly-development-report-2021-08-14.html
+-- devbloglinkstext: Weekly development report 2021-08-14
+-- devbloglinks: posts/weekly-development-report-2021-08-07.html
+-- devbloglinkstext: Weekly development report 2021-08-07
+-- devbloglinks: posts/weekly-development-report-2021-07-31.html
+-- devbloglinkstext: Weekly development report 2021-07-31
+-- devbloglinks: posts/weekly-development-report-2021-07-24.html
+-- devbloglinkstext: Weekly development report 2021-07-24
+-- devbloglinks: posts/weekly-development-report-2021-07-17.html
+-- devbloglinkstext: Weekly development report 2021-07-17
+-- devbloglinks: posts/weekly-development-report-2021-07-10.html
+-- devbloglinkstext: Weekly development report 2021-07-10
+-- devbloglinks: posts/weekly-development-report-2021-07-03.html
+-- devbloglinkstext: Weekly development report 2021-07-03
+-- devbloglinks: posts/weekly-development-report-2021-06-26.html
+-- devbloglinkstext: Weekly development report 2021-06-26
+-- devbloglinks: posts/weekly-development-report-2021-06-19.html
+-- devbloglinkstext: Weekly development report 2021-06-19
+-- devbloglinks: posts/weekly-development-report-2021-06-12.html
+-- devbloglinkstext: Weekly development report 2021-06-12
+-- devbloglinks: posts/weekly-development-report-2021-06-05.html
+-- devbloglinkstext: Weekly development report 2021-06-05
+-- devbloglinks: posts/weekly-development-report-2021-05-29.html
+-- devbloglinkstext: Weekly development report 2021-05-29
+-- devbloglinks: posts/weekly-development-report-2021-05-22.html
+-- devbloglinkstext: Weekly development report 2021-05-22
+-- devbloglinks: posts/weekly-development-report-2021-05-15.html
+-- devbloglinkstext: Weekly development report 2021-05-15
+-- devbloglinks: posts/weekly-development-report-2021-05-08.html
+-- devbloglinkstext: Weekly development report 2021-05-08
+-- devbloglinks: posts/weekly-development-report-2021-05-01.html
+-- devbloglinkstext: Weekly development report 2021-05-01
+-- devbloglinks: posts/weekly-development-report-2021-04-24.html
+-- devbloglinkstext: Weekly development report 2021-04-24
+-- devbloglinks: posts/weekly-development-report-2021-04-17.html
+-- devbloglinkstext: Weekly development report 2021-04-17
+-- devbloglinks: posts/weekly-development-report-2021-04-10.html
+-- devbloglinkstext: Weekly development report 2021-04-10
+-- devbloglinks: posts/weekly-development-report-2021-04-03.html
+-- devbloglinkstext: Weekly development report 2021-04-03
+-- devbloglinks: posts/weekly-development-report-2021-03-27.html
+-- devbloglinkstext: Weekly development report 2021-03-27
+-- devbloglinks: posts/weekly-development-report-2021-03-20.html
+-- devbloglinkstext: Weekly development report 2021-03-20
+-- devbloglinks: posts/weekly-development-report-2021-03-13.html
+-- devbloglinkstext: Weekly development report 2021-03-13
+-- devbloglinks: posts/weekly-development-report-2021-03-06.html
+-- devbloglinkstext: Weekly development report 2021-03-06
+-- devbloglinks: posts/weekly-development-report-2021-02-27.html
+-- devbloglinkstext: Weekly development report 2021-02-27
+-- devbloglinks: posts/weekly-development-report-2021-02-20.html
+-- devbloglinkstext: Weekly development report 2021-02-20
+-- devbloglinks: posts/weekly-development-report-2021-02-13.html
+-- devbloglinkstext: Weekly development report 2021-02-13
+-- devbloglinks: posts/weekly-development-report-2021-02-06.html
+-- devbloglinkstext: Weekly development report 2021-02-06
+-- devbloglinks: posts/weekly-development-report-2021-01-30.html
+-- devbloglinkstext: Weekly development report 2021-01-30
+-- devbloglinks: posts/weekly-development-report-2021-01-23.html
+-- devbloglinkstext: Weekly development report 2021-01-23
+-- devbloglinks: posts/weekly-development-report-2021-01-16.html
+-- devbloglinkstext: Weekly development report 2021-01-16
+-- devbloglinks: posts/weekly-development-report-2021-01-09.html
+-- devbloglinkstext: Weekly development report 2021-01-09
+-- devbloglinks: posts/weekly-development-report-2021-01-02.html
+-- devbloglinkstext: Weekly development report 2021-01-02
+-- devbloglinks: posts/weekly-development-report-2020-12-26.html
+-- devbloglinkstext: Weekly development report 2020-12-26
+-- devbloglinks: posts/weekly-development-report-2020-12-19.html
+-- devbloglinkstext: Weekly development report 2020-12-19
+-- devbloglinks: posts/weekly-development-report-2020-12-12.html
+-- devbloglinkstext: Weekly development report 2020-12-12
+-- devbloglinks: posts/weekly-development-report-2020-12-05.html
+-- devbloglinkstext: Weekly development report 2020-12-05
+-- devbloglinks: posts/weekly-development-report-2020-11-28.html
+-- devbloglinkstext: Weekly development report 2020-11-28
+-- devbloglinks: posts/weekly-development-report-2020-11-21.html
+-- devbloglinkstext: Weekly development report 2020-11-21
+-- devbloglinks: posts/weekly-development-report-2020-11-14.html
+-- devbloglinkstext: Weekly development report 2020-11-14
+-- devbloglinks: posts/weekly-development-report-2020-11-07.html
+-- devbloglinkstext: Weekly development report 2020-11-07
+-- devbloglinks: posts/weekly-development-report-2020-10-31.html
+-- devbloglinkstext: Weekly development report 2020-10-31
+-- devbloglinks: posts/weekly-development-report-2020-10-24.html
+-- devbloglinkstext: Weekly development report 2020-10-24
+-- devbloglinks: posts/weekly-development-report-2020-10-17.html
+-- devbloglinkstext: Weekly development report 2020-10-17
 -- bloglinks: []
 -- bloglinkstext: []
 -- bloglinksdesc: []
--- bloglinks: posts/weekly-development-report-2021-09-11.html
--- bloglinkstext: Weekly development report 2021-09-11
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-09-04.html
--- bloglinkstext: Weekly development report 2021-09-04
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-08-28.html
--- bloglinkstext: Weekly development report 2021-08-28
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-08-21.html
--- bloglinkstext: Weekly development report 2021-08-21
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-08-14.html
--- bloglinkstext: Weekly development report 2021-08-14
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-08-07.html
--- bloglinkstext: Weekly development report 2021-08-07
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-07-31.html
--- bloglinkstext: Weekly development report 2021-07-31
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-07-24.html
--- bloglinkstext: Weekly development report 2021-07-24
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-07-17.html
--- bloglinkstext: Weekly development report 2021-07-17
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-07-10.html
--- bloglinkstext: Weekly development report 2021-07-10
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-07-03.html
--- bloglinkstext: Weekly development report 2021-07-03
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-06-26.html
--- bloglinkstext: Weekly development report 2021-06-26
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-06-19.html
--- bloglinkstext: Weekly development report 2021-06-19
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-06-12.html
--- bloglinkstext: Weekly development report 2021-06-12
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-06-05.html
--- bloglinkstext: Weekly development report 2021-06-05
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-05-29.html
--- bloglinkstext: Weekly development report 2021-05-29
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-05-22.html
--- bloglinkstext: Weekly development report 2021-05-22
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-05-15.html
--- bloglinkstext: Weekly development report 2021-05-15
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-05-08.html
--- bloglinkstext: Weekly development report 2021-05-08
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-05-01.html
--- bloglinkstext: Weekly development report 2021-05-01
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-04-24.html
--- bloglinkstext: Weekly development report 2021-04-24
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-04-17.html
--- bloglinkstext: Weekly development report 2021-04-17
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-04-10.html
--- bloglinkstext: Weekly development report 2021-04-10
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-04-03.html
--- bloglinkstext: Weekly development report 2021-04-03
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-03-27.html
--- bloglinkstext: Weekly development report 2021-03-27
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-03-20.html
--- bloglinkstext: Weekly development report 2021-03-20
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-03-13.html
--- bloglinkstext: Weekly development report 2021-03-13
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-03-06.html
--- bloglinkstext: Weekly development report 2021-03-06
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-02-27.html
--- bloglinkstext: Weekly development report 2021-02-27
--- bloglinksdesc: Weekly report from my Open Source projects
 -- bloglinks: posts/ada-mythology.html
 -- bloglinkstext: Ada Mythology
 -- bloglinksdesc: Various myths related to the Ada programming language and answers to them
--- bloglinks: posts/weekly-development-report-2021-02-20.html
--- bloglinkstext: Weekly development report 2021-02-20
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-02-13.html
--- bloglinkstext: Weekly development report 2021-02-13
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-02-06.html
--- bloglinkstext: Weekly development report 2021-02-06
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-01-30.html
--- bloglinkstext: Weekly development report 2021-01-30
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-01-23.html
--- bloglinkstext: Weekly development report 2021-01-23
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-01-16.html
--- bloglinkstext: Weekly development report 2021-01-16
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-01-09.html
--- bloglinkstext: Weekly development report 2021-01-09
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2021-01-02.html
--- bloglinkstext: Weekly development report 2021-01-02
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2020-12-26.html
--- bloglinkstext: Weekly development report 2020-12-26
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2020-12-19.html
--- bloglinkstext: Weekly development report 2020-12-19
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2020-12-12.html
--- bloglinkstext: Weekly development report 2020-12-12
--- bloglinksdesc: Weekly report from my Open Source projects
 -- bloglinks: posts/how-can-we-help-fight-covid.html
 -- bloglinkstext: How can we help fight COVID-19
 -- bloglinksdesc: Short article about how to contribute your computer or smartphone to help find cure for the pandemic
--- bloglinks: posts/weekly-development-report-2020-12-05.html
--- bloglinkstext: Weekly development report 2020-12-05
--- bloglinksdesc: Weekly report from my Open Source projects
 -- bloglinks: posts/how-to-set-browser-to-i2p.html
 -- bloglinkstext: How to set up web browser for browsing I2P network
 -- bloglinksdesc: Alternate guide how to set proxy in desktop/android for browsing I2P network
--- bloglinks: posts/weekly-development-report-2020-11-28.html
--- bloglinkstext: Weekly development report 2020-11-28
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2020-11-21.html
--- bloglinkstext: Weekly development report 2020-11-21
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2020-11-14.html
--- bloglinkstext: Weekly development report 2020-11-14
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2020-11-07.html
--- bloglinkstext: Weekly development report 2020-11-07
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2020-10-31.html
--- bloglinkstext: Weekly development report 2020-10-31
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2020-10-24.html
--- bloglinkstext: Weekly development report 2020-10-24
--- bloglinksdesc: Weekly report from my Open Source projects
--- bloglinks: posts/weekly-development-report-2020-10-17.html
--- bloglinkstext: Weekly development report 2020-10-17
--- bloglinksdesc: Weekly report from my Open Source projects
 Welcome to my blog. Below you can find the list of all posts on the blog. All
 the blog entries are available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 license.

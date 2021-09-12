@@ -4,12 +4,23 @@
       </div>
       <div id="centered">
          <h3 align="center">Last posts</h3>
-         <dl>
-         @@TABLE@@
-            <dt><a href="{%bloglinks%}">{%bloglinkstext%}</a></dt>
-            <dd>{%bloglinksdesc%}</dd>
-         @@END_TABLE@@
-         </dl>
+         <details>
+            <summary>Weekly development reports</summary>
+            <dl>
+               @@TABLE@@
+               <dt><a href="{%devbloglinks%}">{%devbloglinkstext%}</a></dt>
+               @@END_TABLE@@
+            </dl>
+         </details>
+         <details>
+            <summary>Latest posts</summary>
+            <dl>
+               @@TABLE@@
+               <dt><a href="{%bloglinks%}">{%bloglinkstext%}</a></dt>
+               <dd>{%bloglinksdesc%}</dd>
+               @@END_TABLE@@
+            </dl>
+         </details>
       </div>
       <div id="content">
          <p><a class="back" href="../index.html">Back</a></p>
