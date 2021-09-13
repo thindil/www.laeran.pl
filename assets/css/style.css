@@ -74,6 +74,7 @@ blockquote {
 
 details {
    padding-left: 20%;
+   padding-bottom: 2%;
 }
 
 @media screen and (max-width: 900px) {

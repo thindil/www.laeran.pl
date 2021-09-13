@@ -6,101 +6,101 @@
 -- devbloglinks: []
 -- devbloglinkstext: []
 -- devbloglinks: posts/weekly-development-report-2021-09-11.html
--- devbloglinkstext: Weekly development report 2021-09-11
+-- devbloglinkstext: 2021-09-11
 -- devbloglinks: posts/weekly-development-report-2021-09-04.html
--- devbloglinkstext: Weekly development report 2021-09-04
+-- devbloglinkstext: 2021-09-04
 -- devbloglinks: posts/weekly-development-report-2021-08-28.html
--- devbloglinkstext: Weekly development report 2021-08-28
+-- devbloglinkstext: 2021-08-28
 -- devbloglinks: posts/weekly-development-report-2021-08-21.html
--- devbloglinkstext: Weekly development report 2021-08-21
+-- devbloglinkstext: 2021-08-21
 -- devbloglinks: posts/weekly-development-report-2021-08-14.html
--- devbloglinkstext: Weekly development report 2021-08-14
+-- devbloglinkstext: 2021-08-14
 -- devbloglinks: posts/weekly-development-report-2021-08-07.html
--- devbloglinkstext: Weekly development report 2021-08-07
+-- devbloglinkstext: 2021-08-07
 -- devbloglinks: posts/weekly-development-report-2021-07-31.html
--- devbloglinkstext: Weekly development report 2021-07-31
+-- devbloglinkstext: 2021-07-31
 -- devbloglinks: posts/weekly-development-report-2021-07-24.html
--- devbloglinkstext: Weekly development report 2021-07-24
+-- devbloglinkstext: 2021-07-24
 -- devbloglinks: posts/weekly-development-report-2021-07-17.html
--- devbloglinkstext: Weekly development report 2021-07-17
+-- devbloglinkstext: 2021-07-17
 -- devbloglinks: posts/weekly-development-report-2021-07-10.html
--- devbloglinkstext: Weekly development report 2021-07-10
+-- devbloglinkstext: 2021-07-10
 -- devbloglinks: posts/weekly-development-report-2021-07-03.html
--- devbloglinkstext: Weekly development report 2021-07-03
+-- devbloglinkstext: 2021-07-03
 -- devbloglinks: posts/weekly-development-report-2021-06-26.html
--- devbloglinkstext: Weekly development report 2021-06-26
+-- devbloglinkstext: 2021-06-26
 -- devbloglinks: posts/weekly-development-report-2021-06-19.html
--- devbloglinkstext: Weekly development report 2021-06-19
+-- devbloglinkstext: 2021-06-19
 -- devbloglinks: posts/weekly-development-report-2021-06-12.html
--- devbloglinkstext: Weekly development report 2021-06-12
+-- devbloglinkstext: 2021-06-12
 -- devbloglinks: posts/weekly-development-report-2021-06-05.html
--- devbloglinkstext: Weekly development report 2021-06-05
+-- devbloglinkstext: 2021-06-05
 -- devbloglinks: posts/weekly-development-report-2021-05-29.html
--- devbloglinkstext: Weekly development report 2021-05-29
+-- devbloglinkstext: 2021-05-29
 -- devbloglinks: posts/weekly-development-report-2021-05-22.html
--- devbloglinkstext: Weekly development report 2021-05-22
+-- devbloglinkstext: 2021-05-22
 -- devbloglinks: posts/weekly-development-report-2021-05-15.html
--- devbloglinkstext: Weekly development report 2021-05-15
+-- devbloglinkstext: 2021-05-15
 -- devbloglinks: posts/weekly-development-report-2021-05-08.html
--- devbloglinkstext: Weekly development report 2021-05-08
+-- devbloglinkstext: 2021-05-08
 -- devbloglinks: posts/weekly-development-report-2021-05-01.html
--- devbloglinkstext: Weekly development report 2021-05-01
+-- devbloglinkstext: 2021-05-01
 -- devbloglinks: posts/weekly-development-report-2021-04-24.html
--- devbloglinkstext: Weekly development report 2021-04-24
+-- devbloglinkstext: 2021-04-24
 -- devbloglinks: posts/weekly-development-report-2021-04-17.html
--- devbloglinkstext: Weekly development report 2021-04-17
+-- devbloglinkstext: 2021-04-17
 -- devbloglinks: posts/weekly-development-report-2021-04-10.html
--- devbloglinkstext: Weekly development report 2021-04-10
+-- devbloglinkstext: 2021-04-10
 -- devbloglinks: posts/weekly-development-report-2021-04-03.html
--- devbloglinkstext: Weekly development report 2021-04-03
+-- devbloglinkstext: 2021-04-03
 -- devbloglinks: posts/weekly-development-report-2021-03-27.html
--- devbloglinkstext: Weekly development report 2021-03-27
+-- devbloglinkstext: 2021-03-27
 -- devbloglinks: posts/weekly-development-report-2021-03-20.html
--- devbloglinkstext: Weekly development report 2021-03-20
+-- devbloglinkstext: 2021-03-20
 -- devbloglinks: posts/weekly-development-report-2021-03-13.html
--- devbloglinkstext: Weekly development report 2021-03-13
+-- devbloglinkstext: 2021-03-13
 -- devbloglinks: posts/weekly-development-report-2021-03-06.html
--- devbloglinkstext: Weekly development report 2021-03-06
+-- devbloglinkstext: 2021-03-06
 -- devbloglinks: posts/weekly-development-report-2021-02-27.html
--- devbloglinkstext: Weekly development report 2021-02-27
+-- devbloglinkstext: 2021-02-27
 -- devbloglinks: posts/weekly-development-report-2021-02-20.html
--- devbloglinkstext: Weekly development report 2021-02-20
+-- devbloglinkstext: 2021-02-20
 -- devbloglinks: posts/weekly-development-report-2021-02-13.html
--- devbloglinkstext: Weekly development report 2021-02-13
+-- devbloglinkstext: 2021-02-13
 -- devbloglinks: posts/weekly-development-report-2021-02-06.html
--- devbloglinkstext: Weekly development report 2021-02-06
+-- devbloglinkstext: 2021-02-06
 -- devbloglinks: posts/weekly-development-report-2021-01-30.html
--- devbloglinkstext: Weekly development report 2021-01-30
+-- devbloglinkstext: 2021-01-30
 -- devbloglinks: posts/weekly-development-report-2021-01-23.html
--- devbloglinkstext: Weekly development report 2021-01-23
+-- devbloglinkstext: 2021-01-23
 -- devbloglinks: posts/weekly-development-report-2021-01-16.html
--- devbloglinkstext: Weekly development report 2021-01-16
+-- devbloglinkstext: 2021-01-16
 -- devbloglinks: posts/weekly-development-report-2021-01-09.html
--- devbloglinkstext: Weekly development report 2021-01-09
+-- devbloglinkstext: 2021-01-09
 -- devbloglinks: posts/weekly-development-report-2021-01-02.html
--- devbloglinkstext: Weekly development report 2021-01-02
+-- devbloglinkstext: 2021-01-02
 -- devbloglinks: posts/weekly-development-report-2020-12-26.html
--- devbloglinkstext: Weekly development report 2020-12-26
+-- devbloglinkstext: 2020-12-26
 -- devbloglinks: posts/weekly-development-report-2020-12-19.html
--- devbloglinkstext: Weekly development report 2020-12-19
+-- devbloglinkstext: 2020-12-19
 -- devbloglinks: posts/weekly-development-report-2020-12-12.html
--- devbloglinkstext: Weekly development report 2020-12-12
+-- devbloglinkstext: 2020-12-12
 -- devbloglinks: posts/weekly-development-report-2020-12-05.html
--- devbloglinkstext: Weekly development report 2020-12-05
+-- devbloglinkstext: 2020-12-05
 -- devbloglinks: posts/weekly-development-report-2020-11-28.html
--- devbloglinkstext: Weekly development report 2020-11-28
+-- devbloglinkstext: 2020-11-28
 -- devbloglinks: posts/weekly-development-report-2020-11-21.html
--- devbloglinkstext: Weekly development report 2020-11-21
+-- devbloglinkstext: 2020-11-21
 -- devbloglinks: posts/weekly-development-report-2020-11-14.html
--- devbloglinkstext: Weekly development report 2020-11-14
+-- devbloglinkstext: 2020-11-14
 -- devbloglinks: posts/weekly-development-report-2020-11-07.html
--- devbloglinkstext: Weekly development report 2020-11-07
+-- devbloglinkstext: 2020-11-07
 -- devbloglinks: posts/weekly-development-report-2020-10-31.html
--- devbloglinkstext: Weekly development report 2020-10-31
+-- devbloglinkstext: 2020-10-31
 -- devbloglinks: posts/weekly-development-report-2020-10-24.html
--- devbloglinkstext: Weekly development report 2020-10-24
+-- devbloglinkstext: 2020-10-24
 -- devbloglinks: posts/weekly-development-report-2020-10-17.html
--- devbloglinkstext: Weekly development report 2020-10-17
+-- devbloglinkstext: 2020-10-17
 -- bloglinks: []
 -- bloglinkstext: []
 -- bloglinksdesc: []
