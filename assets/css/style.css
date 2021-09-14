@@ -77,6 +77,18 @@ details {
    padding-bottom: 2%;
 }
 
+details.yeartop {
+   padding-left: 5%;
+   padding-top: 2%;
+   padding-bottom: 0;
+}
+
+details.yearbottom {
+   padding-left: 5%;
+   padding-top: 1%;
+   padding-bottom: 0;
+}
+
 @media screen and (max-width: 900px) {
    #centered, #content, .title {
       min-width: 95%;
