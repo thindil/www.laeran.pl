@@ -106,15 +106,19 @@
 -- bloglinks: []
 -- bloglinkstext: []
 -- bloglinksdesc: []
+-- bloglinksdate: []
 -- bloglinks: posts/ada-mythology.html
 -- bloglinkstext: Ada Mythology
 -- bloglinksdesc: Various myths related to the Ada programming language and answers to them
+-- bloglinksdate: 2021-02-26
 -- bloglinks: posts/how-can-we-help-fight-covid.html
 -- bloglinkstext: How can we help fight COVID-19
 -- bloglinksdesc: Short article about how to contribute your computer or smartphone to help find cure for the pandemic
+-- bloglinksdate: 2020-12-06
 -- bloglinks: posts/how-to-set-browser-to-i2p.html
 -- bloglinkstext: How to set up web browser for browsing I2P network
 -- bloglinksdesc: Alternate guide how to set proxy in desktop/android for browsing I2P network
+-- bloglinksdate: 2020-11-29
 Welcome to my blog. Below you can find the list of all posts on the blog. All
 the blog entries are available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 license.
