@@ -1,7 +1,5 @@
 -- layout: default
 -- title: Contact page
--- filename: contact.html
--- author: Bartek Jasicki
 -- summary: How to contact with admin of www.laeran.pl
 If you need to contact with me in any case, you have few options:
 
