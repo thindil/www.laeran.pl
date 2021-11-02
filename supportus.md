@@ -1,7 +1,5 @@
 -- layout: default
 -- title: Support Us
--- filename: supportus.html
--- author: Bartek Jasicki
 -- summary: How to support the www.laeran.pl and its admin
 By "us" I mean me and my page :) Contrary to popular beliefs, support can be
 done in a few ways:

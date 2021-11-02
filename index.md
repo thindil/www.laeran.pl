@@ -1,7 +1,5 @@
 -- layout: index
 -- title: Table of Contents
--- filename:
--- author: Bartek Jasicki
 -- summary: The main page of www.laeran.pl - home of few Open Source projects and Ada programming language related things
 -- adalinks: []
 -- adalinkstext: []

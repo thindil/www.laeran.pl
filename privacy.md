@@ -1,7 +1,5 @@
 -- layout: default
 -- title: Terms of service and Privacy
--- filename: privacy.html
--- author: Bartek Jasicki
 -- summary: Terms of service and Privacy information related to the www.laeran.pl
 This document was added to the website in Mar 2019 in order to assure compliance with the [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation); a regulation in the European Union on data protection and privacy for all individuals within the European Union (EU) and the European Economic Area (EEA).
 
