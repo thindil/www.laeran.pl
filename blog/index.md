@@ -1,7 +1,5 @@
 -- layout: blogindex
 -- title: Random thoughts about random things.
--- filename: blog/index.html
--- author: Bartek Jasicki
 -- summary: Personal blog of Bartek Jasicki, random thoughts about random things. Mostly weekly reports from Open Source projects.
 -- devbloglinks2021: []
 -- devbloglinkstext2021: []
