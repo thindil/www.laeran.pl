@@ -1,7 +1,5 @@
 -- layout: blog
 -- title: Ada Mythology
--- filename: blog/posts/ada-mythology.html
--- author: Bartek Jasicki
 -- summary: Various myths related to the Ada programming language
 Over time during talks with other people I encountered many myths related to
 the Ada programming language. As a bit lazy person I don't want to
