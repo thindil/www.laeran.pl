@@ -1,7 +1,5 @@
 -- layout: blog
 -- title: Weekly development report 2021-06-19
--- filename: blog/posts/weekly-development-report-2021-06-19.html
--- author: Bartek Jasicki
 -- summary: Weekly development report from Bartek Jasicki various Open Source projects
 
 Welcome to the weekly development report or what was done in my Open Source
