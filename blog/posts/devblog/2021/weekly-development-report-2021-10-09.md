@@ -1,7 +1,5 @@
 -- layout: blog
 -- title: Weekly development report 2021-10-09
--- filename: blog/posts/devblog/2021/weekly-development-report-2021-10-09.html
--- author: Bartek Jasicki
 -- summary: Weekly development report from Bartek Jasicki various Open Source projects
 
 Welcome to the weekly development report or what was done in my Open Source
