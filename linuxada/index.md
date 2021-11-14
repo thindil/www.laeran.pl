@@ -2,7 +2,7 @@
 -- title: Ada Linux Packages Repository
 -- summary: Information about repository with Ada programming language related packages for various Linux distributions.
 
-##### General information
+## General information
 
 [Ada Linux Packages Repository](https://build.opensuse.org/project/show/home:thindil)
 contains various programs and libraries related to Ada programming language
@@ -16,20 +16,19 @@ repositories are:
 
 To see the full list of available packages please go to the [repository page](https://build.opensuse.org/project/show/home:thindil).
 
-##### Status
+## Status
 
 Current status of the project is [SNAFU](https://en.wikipedia.org/wiki/SNAFU).
 
-There are several packages available, but they still need a lot of work,
-especially to be conforming with [Debian policy for Ada](https://people.debian.org/~lbrenta/debian-ada-policy.html).
-This mean that you should use them at your own risk. They **should** work but
-they content and names can change from time to time. Any help in that matter is
-very welcomed. :)
+There are several packages available, but the repository still needs some work,
+mostly related to the documentation. They **should** work but they content and
+names can change from time to time. Any help in that matter is more than
+welcomed. :)
 
 **WARNING:** The whole repository, same as this document is under construction
 now thus, everything here is subject to change. Be ready for everything. :)
 
-##### How to use it
+## How to use it
 
 First you have to add the repository to your repositories list. You can also
 skip this step and download directly packages, but then you will not have
@@ -70,7 +69,7 @@ Keep in mind that the owner of the key may distribute updates, packages and repo
 The same detailed information about how to install each package you can find at
 download page of the package. For example, for [yass](https://software.opensuse.org//download.html?project=home%3Athindil&package=yass).
 
-##### FAQ
+## FAQ
 
 * How to add a new package to the repository?
 
@@ -82,8 +81,7 @@ download page of the package. For example, for [yass](https://software.opensuse.
   will need then maintain that package. :) I would suggest to start with
   creating a Debian/Ubuntu package first as they probably need the most work.
   Also, Debian/Ubuntu packages require files to have proper names, when RPM or
-  Arch don't. Also, your package have to be conforming with [Debian policy for Ada](https://people.debian.org/~lbrenta/debian-ada-policy.html) for `deb` packages or [Fedora Packaging Guidelines](https://docs.fedoraproject.org/en-US/packaging-guidelines/)
-  for `rpm` packages.
+  Arch don't.
 
 * How to add a new architecture to existing distribution repository?
 
@@ -113,3 +111,13 @@ download page of the package. For example, for [yass](https://software.opensuse.
   All reports please send by [repository](https://build.opensuse.org/project/show/home:thindil)
   requests only. If you prefer other ways to support, you can look at [support us](supportui.html)
   page.
+
+* Why this repository exists, when we can create static binaries or libraries
+  for Linux?
+
+  That's the problem, we can't create binaries or libraries which will be
+  working on every Linux distribution. The main problem is incompatibility
+  between various standard C libraries used by various distributions. Also, the
+  GNU LibC isn't compatible with its own previous versions. And repository
+  provides also way to automatically upgrade packages via distribution's update
+  mechanism.
