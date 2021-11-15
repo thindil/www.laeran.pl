@@ -15,6 +15,8 @@ repositories are:
 * Debian Testing x86_64
 
 To see the full list of available packages please go to the [repository page](https://build.opensuse.org/project/show/home:thindil).
+To see the lists of all available architectures and distributions, please look
+to the FAQ section.
 
 ## Status
 
@@ -87,9 +89,12 @@ download page of the package. For example, for [yass](https://software.opensuse.
 
   If you want to see another CPU architecture supported by enabled
   distribution, please contact via [repository](https://build.opensuse.org/project/show/home:thindil)
-  requests or if you prefer private, by options from [contact page](contatc.html).
+  requests or if you prefer private, by options from [contact page](contact.html).
   In that situation I will need your help in maintain the selected
   architecture, mostly with patches, and generally, using packages. :)
+  Available architectures depends on the selected distribution, but generally,
+  are: *i586, x86_64, ppc, ppc64, s390x, armv6l, armv7l, aarch64, ppc64le,
+  aarch64_ilp32, riscv64*
 
 * How to add a new distribution to the repository?
 
@@ -99,11 +104,18 @@ download page of the package. For example, for [yass](https://software.opensuse.
   course, the same as with new packages - you will be appointed as a new
   maintainer of that packages. :) If possible, please use for sources names
   used by Debian/Ubuntu packages system (with `.orig` before a file extension).
+  Available distributions are: *Debian (Unstable, Testing, 11, 10, 9), xUbuntu
+  (21.10, 21.04, 20.10, 20.04, 18.04, 16.04, 14.04), openSUSE (Tumbleweed,
+  15.4, 15.3, 15.2, Factory), SUSE (15, 12, 11), Arch Linux, Raspbian (10, 9),
+  Fedora (Rawhide, 35, 34, 33, 32, 31), ScientificLinux (7, 6), RedHat (7, 6,
+  5), CentOS (8, 7), Uninvention (4.4, 4.3, 4.2, 4.1, 4.0, 3.2), Mageia
+  (Cauldron, 8)*. The list can change over time as the new versions of
+  distributions arrive and the old reach End-Of-Life.
 
 * I have question/idea/etc, how I can contact with you about the repository?
 
   Same as above, if you prefer to speak in public, use [repository](https://build.opensuse.org/project/show/home:thindil)
-  requests or if you prefer private, by options from [contact page](contatc.html).
+  requests or if you prefer private, by options from [contact page](contact.html).
 
 * Any other way in which I can help?
 
