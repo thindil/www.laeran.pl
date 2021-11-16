@@ -77,7 +77,7 @@ download page of the package. For example, for [yass](https://software.opensuse.
 
   The chance that I will add a new package here is rather small. If you want
   to have a new one, you will need to create it by yourself. I can help you
-  with it, use options from [contact page](contact.html) to catch me. The best
+  with it, use options from [contact page](../contact.html) to catch me. The best
   way to have a new package is to create your own repo at [Open SUSE Build Service](https://build.opensuse.org/),
   create the package there and submit it to this repository. Of course, you
   will need then maintain that package. :) I would suggest to start with
@@ -89,7 +89,7 @@ download page of the package. For example, for [yass](https://software.opensuse.
 
   If you want to see another CPU architecture supported by enabled
   distribution, please contact via [repository](https://build.opensuse.org/project/show/home:thindil)
-  requests or if you prefer private, by options from [contact page](contact.html).
+  requests or if you prefer private, by options from [contact page](../contact.html).
   In that situation I will need your help in maintain the selected
   architecture, mostly with patches, and generally, using packages. :)
   Available architectures depends on the selected distribution, but generally,
@@ -115,13 +115,13 @@ download page of the package. For example, for [yass](https://software.opensuse.
 * I have question/idea/etc, how I can contact with you about the repository?
 
   Same as above, if you prefer to speak in public, use [repository](https://build.opensuse.org/project/show/home:thindil)
-  requests or if you prefer private, by options from [contact page](contact.html).
+  requests or if you prefer private, by options from [contact page](../contact.html).
 
 * Any other way in which I can help?
 
   Well, use packages, report bugs with them and report if they are outdated.
   All reports please send by [repository](https://build.opensuse.org/project/show/home:thindil)
-  requests only. If you prefer other ways to support, you can look at [support us](supportui.html)
+  requests only. If you prefer other ways to support, you can look at [support us](../supportus.html)
   page.
 
 * Why this repository exists, when we can create static binaries or libraries
