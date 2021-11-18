@@ -1,6 +1,7 @@
 -- layout: default
 -- title: Ada Linux Packages Repository
 -- summary: Information about repository with Ada programming language related packages for various Linux distributions.
+-- backlink: ../index.html
 
 ## General information
 
@@ -10,9 +11,10 @@ for different Linux distributions. Not all the packages are available for
 every distribution, same with various architectures. At this moment available
 repositories are:
 
-* Ubuntu 21.10 x86_64
-* Debian 11 x86_64
-* Debian Testing x86_64
+* Ubuntu 21.10 x86_64 arm64
+* Debian 11 x86_64 arm64
+* Debian Testing x86_64 arm64
+* Raspbian 11 arm64 armhf
 
 To see the full list of available packages please go to the [repository page](https://build.opensuse.org/project/show/home:thindil).
 To see the lists of all available architectures and distributions, please look
@@ -68,6 +70,17 @@ Keep in mind that the owner of the key may distribute updates, packages and repo
 
    `sudo apt update`
 
+* For Raspbian 11 run the following:
+
+Keep in mind that the owner of the key may distribute updates, packages and
+repositories that your system will trust ([more information](https://wiki.debian.org/SecureApt)). In console enter:
+
+   `echo 'deb http://download.opensuse.org/repositories/home:/thindil/Raspbian_11/ /' | sudo tee /etc/apt/sources.list.d/home:thindil.list`
+
+   `curl -fsSL https://download.opensuse.org/repositories/home:thindil/Raspbian_11/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/home_thindil.gpg > /dev/null`
+
+   `sudo apt update`
+
 The same detailed information about how to install each package you can find at
 download page of the package. For example, for [yass](https://software.opensuse.org//download.html?project=home%3Athindil&package=yass).
 
@@ -106,13 +119,19 @@ download page of the package. For example, for [yass](https://software.opensuse.
   used by Debian/Ubuntu packages system (with `.orig` before a file extension).
   Available distributions are: *Debian (Unstable, Testing, 11, 10, 9), xUbuntu
   (21.10, 21.04, 20.10, 20.04, 18.04, 16.04, 14.04), openSUSE (Tumbleweed,
-  15.4, 15.3, 15.2, Factory), SUSE (15, 12, 11), Arch Linux, Raspbian (10, 9),
+  15.4, 15.3, 15.2, Factory), SUSE (15, 12, 11), Arch Linux, Raspbian (11, 10),
   Fedora (Rawhide, 35, 34, 33, 32, 31), ScientificLinux (7, 6), RedHat (7, 6,
   5), CentOS (8, 7), Uninvention (4.4, 4.3, 4.2, 4.1, 4.0, 3.2), Mageia
   (Cauldron, 8)*. The list can change over time as the new versions of
   distributions arrive and the old reach End-Of-Life.
 
-* I have question/idea/etc, how I can contact with you about the repository?
+* Can I copy, fork or create my own based on the repository?
+
+  Of course, if you want, you can even overtake this one. Just not by the
+  force. :) All information related to the repository are under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+  license.
+
+* I have question, idea, etc, how I can contact with you about the repository?
 
   Same as above, if you prefer to speak in public, use [repository](https://build.opensuse.org/project/show/home:thindil)
   requests or if you prefer private, by options from [contact page](../contact.html).
