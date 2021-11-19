@@ -25,7 +25,8 @@ to the FAQ section.
 Current status of the project is [SNAFU](https://en.wikipedia.org/wiki/SNAFU).
 
 There are several packages available, but the repository still needs some work,
-mostly related to the documentation. They **should** work but they content and
+mostly related to the documentation and to making packages more various
+distributions standards friendly. They **should** work but they content and
 names can change from time to time. Any help in that matter is more than
 welcomed. :)
 
@@ -86,7 +87,7 @@ download page of the package. For example, for [yass](https://software.opensuse.
 
 ## FAQ
 
-* How to add a new package to the repository?
+* **How to add a new package to the repository?**
 
   The chance that I will add a new package here is rather small. If you want
   to have a new one, you will need to create it by yourself. I can help you
@@ -96,9 +97,10 @@ download page of the package. For example, for [yass](https://software.opensuse.
   will need then maintain that package. :) I would suggest to start with
   creating a Debian/Ubuntu package first as they probably need the most work.
   Also, Debian/Ubuntu packages require files to have proper names, when RPM or
-  Arch don't.
+  Arch don't. But, before you start work on the new package, please read
+  [packages requiremets](packages_requirements.html) page.
 
-* How to add a new architecture to existing distribution repository?
+* **How to add a new architecture to existing distribution repository?**
 
   If you want to see another CPU architecture supported by enabled
   distribution, please contact via [repository](https://build.opensuse.org/project/show/home:thindil)
@@ -109,42 +111,41 @@ download page of the package. For example, for [yass](https://software.opensuse.
   are: *i586, x86_64, ppc, ppc64, s390x, armv6l, armv7l, aarch64, ppc64le,
   aarch64_ilp32, riscv64*
 
-* How to add a new distribution to the repository?
+* **How to add a new distribution to the repository?**
 
   That's probably the hardest task. The best way is to create your own
   repository at [Open SUSE Build Service](https://build.opensuse.org/), create
   the packages which you want to add and then point me to show your work. Of
   course, the same as with new packages - you will be appointed as a new
-  maintainer of that packages. :) If possible, please use for sources names
-  used by Debian/Ubuntu packages system (with `.orig` before a file extension).
-  Available distributions are: *Debian (Unstable, Testing, 11, 10, 9), xUbuntu
-  (21.10, 21.04, 20.10, 20.04, 18.04, 16.04, 14.04), openSUSE (Tumbleweed,
-  15.4, 15.3, 15.2, Factory), SUSE (15, 12, 11), Arch Linux, Raspbian (11, 10),
-  Fedora (Rawhide, 35, 34, 33, 32, 31), ScientificLinux (7, 6), RedHat (7, 6,
-  5), CentOS (8, 7), Uninvention (4.4, 4.3, 4.2, 4.1, 4.0, 3.2), Mageia
-  (Cauldron, 8)*. The list can change over time as the new versions of
-  distributions arrive and the old reach End-Of-Life.
+  maintainer of that packages. :). Available distributions are: *Debian
+  (Unstable, Testing, 11, 10, 9), xUbuntu (21.10, 21.04, 20.10, 20.04,
+  18.04, 16.04, 14.04), openSUSE (Tumbleweed, 15.4, 15.3, 15.2, Factory),
+  SUSE (15, 12, 11), Arch Linux, Raspbian (11, 10), Fedora (Rawhide, 35,
+  34, 33, 32, 31), ScientificLinux (7, 6), RedHat (7, 6, 5), CentOS (8, 7),
+  Uninvention (4.4, 4.3, 4.2, 4.1, 4.0, 3.2), Mageia (Cauldron, 8)*.
+  The list can change over time as the new versions of distributions arrive
+  and the old reach End-Of-Life.
 
-* Can I copy, fork or create my own based on the repository?
+* **Can I copy, fork or create my own based on the repository?**
 
   Of course, if you want, you can even overtake this one. Just not by the
   force. :) All information related to the repository are under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
   license.
 
-* I have question, idea, etc, how I can contact with you about the repository?
+* **I have question, idea, etc, how I can contact with you about the repository?**
 
   Same as above, if you prefer to speak in public, use [repository](https://build.opensuse.org/project/show/home:thindil)
   requests or if you prefer private, by options from [contact page](../contact.html).
 
-* Any other way in which I can help?
+* **Any other way in which I can help?**
 
   Well, use packages, report bugs with them and report if they are outdated.
   All reports please send by [repository](https://build.opensuse.org/project/show/home:thindil)
   requests only. If you prefer other ways to support, you can look at [support us](../supportus.html)
   page.
 
-* Why this repository exists, when we can create static binaries or libraries
-  for Linux?
+* **Why this repository exists, when we can create static binaries or libraries
+  for Linux?**
 
   That's the problem, we can't create binaries or libraries which will be
   working on every Linux distribution. The main problem is incompatibility
