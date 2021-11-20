@@ -98,7 +98,8 @@ download page of the package. For example, for [yass](https://software.opensuse.
   creating a Debian/Ubuntu package first as they probably need the most work.
   Also, Debian/Ubuntu packages require files to have proper names, when RPM or
   Arch don't. But, before you start work on the new package, please read
-  [packages requiremets](packages_requirements.html) page.
+  [packages requirements](packages_requirements.html) page. Another helpful
+  reading is section *Tutorials* below *FAQ* section.
 
 * **How to add a new architecture to existing distribution repository?**
 
@@ -153,3 +154,9 @@ download page of the package. For example, for [yass](https://software.opensuse.
   GNU LibC isn't compatible with its own previous versions. And repository
   provides also way to automatically upgrade packages via distribution's update
   mechanism.
+
+### Tutorials
+
+1. [Creating simple binary package for Debian](debian_tutorial.html) describes
+   how to create a simple binary package for the repository for Debian
+   distribution.
