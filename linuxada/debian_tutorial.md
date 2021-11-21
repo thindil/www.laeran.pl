@@ -15,13 +15,13 @@ will find the list of changes to the document.
 ### Preparations
 
 Before start creating a package, it is a good idea to prepare your workshop.
-The best option is to work inside of Docker container. It will allow you to
+The best option is to work inside of a Docker container. It will allow you to
 keep your system clean, but also will be easier to find all required packages
-to build the project. As the example here, I will use, existing package
+to build the project. As the example here, I will use, an existing package
 [bob](https://build.opensuse.org/package/show/home:thindil/bob).
 
 The most important thing needed to create a package is of course its content.
-In this situation it will be archive file with the source code of the future
+In this situation it will be an archive file with the source code of the future
 package. Now one important note: Debian has requirement how that file and its
 content should be named:
 
@@ -36,28 +36,28 @@ content should be named:
 
 During the tutorial, to make things easier we will be using a few Debian
 Package Maintainer tools, which should be installed inside the Docker image.
-Exactly two programs: `debmake` and `debuild`. It is good to create Docker
-image with them, because they will always be needed, no matter what package we
-create.
+Exactly two programs: `debmake` and `debuild` and their dependencies. It is a
+good idea to create a Docker image with them, because they will always be
+needed, no matter what package we create.
 
 You will also need any text editor. Some of them have even syntax highlighting
 for Debian packages files. We will be using NeoVim for that.
 
-If you use Docker image to create the package, please install also all packages
+If you use a Docker image to create the package, please install also all packages
 required for build your package. In our example it will be:
 
     apt install -y gnat gprbuild
 
 ### Creating template Debian package
 
-The first we start with creating empty Debian package with default settings.
+The first we start with creating empty Debian package with the default settings.
 Unpack your program source code to the same directory where the archive file
 is. In our example it will be:
 
-    tar -xf bob_3.1.tar.gz
+    tar -xf bob-3.1.tar.gz
 
 Next, would be good to start our Docker image. :) It can look in that way
-(replace the name of image with your Image name):
+(replace the name of image (*ubuntu:21.10*) with your Image name):
 
     sudo docker run --rm -it -v $(pwd):/app -w /app ubuntu:21.10 /bin/bash
 
@@ -67,7 +67,7 @@ package:
     cd bob-3.1
     debmake
 
-And that's all, now it is time for set basic information about our package.
+And that's all, now it is time to set basic information about our package.
 
 ### Setting the package control file
 
@@ -94,7 +94,7 @@ Next, the *Maintainer* field. It should have value `Your Name
     Maintainer: Bartek thindil Jasicki <thindil@laeran.pl>
 
 The next field is the most important and sometimes the hardest to fill:
-*Build-Depends*. It contains name of all Debian packages needed for build our
+*Build-Depends*. It contains names of all Debian packages needed for build our
 package. It can be listed in one line, but it is more convenient to have each
 package in a separated line. **Important:** always include the default line,
 don't remove it. In our example we need only two packages: `gnat` (default
@@ -104,6 +104,9 @@ version) and `gprbuild` (also default version).
      gprbuild,
      gnat
 
+**Notice:** Each new line should start with one space. This informs the build
+system that it is continuation of the previous line. The last comma is simply
+ignored.
 The next field to change is *Homepage*. Enter here your main project page
 address:
 
@@ -129,6 +132,9 @@ package.
      in a selected directory, it reads configuration file (if exists) for
      selected directory for aliases.
 
+**Notice:** Also here, each new line should start with one space. This informs the build
+system that it is continuation of the previous line.
+
 Now, save the **control** file and let's move to the next. More information
 about the fields in the file you can find [here](https://www.debian.org/doc/debian-policy/ch-controlfields.html).
 
@@ -147,7 +153,9 @@ indentation. In other case it will **not works**. The build program will
 report invalid file. If the example contains spaces, you will have to manually
 convert them to tabs. This is the reason why it is better to use a text editor
 with support for Debian packages (like Vim or Emacs). They automatically change
-all indentation in *rules* file into tabs.
+all indentation in *rules* file into tabs. In the examples here, spaces are
+used, thus if you copy and paste them to your *rules* file you will have to
+convert them to tabs.
 
 The first, we overwrite the default build action. Because our package uses
 gprbuild with custom variables, we have to set our own build command. Add at
@@ -159,17 +167,17 @@ the end of the file lines:
 The second thing, is to install our build binary in proper location. During
 creation of a package, all files which later should be installed from the
 package are located in *debian/packagename/* directory. In our example it will
-be *debian/bob/* directory. We have to create it, with proper Linux directory
+be *debian/bob/* directory. We have to create it, with a proper Linux directory
 tree structure and then put our binary there. Because we don't use for this
-standard `make install` command, we have to override it in the same way as we
-have done it with build command. Add at the end of the file lines:
+standard `make install` command, we have to override it, in the same way as we
+have done it with the build command. Add at the end of the file lines:
 
     override_dh_auto_install:
         mkdir -p $(CURDIR)/debian/bob/usr/
         mv $(CURDIR)/bin $(CURDIR)/debian/bob/usr/
 
 The last step is optional but useful. We override in it the default clean
-action. It is used at start and end of build the package process. It can be
+action. It is used at start and end of the build the package process. It can be
 useful if we will rebuild the package again. To do it, add at the end of the
 file lines:
 
@@ -185,9 +193,9 @@ the *changelog* file is used to create versioning for the package. The version
 number is in parentheses in the first line. In our example, it is *3.1-1*. 3.1
 is official version of the program, 1 is the first release as Debian package.
 When we will update the existing package of the same version, we should change
-this number and add new changelog entry for it. In our example we can change
+this number and add a new changelog entry for it. In our example we can change
 word *UNRELEASED* (as a name for Debian version) to *impish* (the name of
-current Ubuntu version). This step is optional. Also, it is good idea to change
+the current Ubuntu version). This step is optional. Also, it is good idea to change
 the entry of changelog to just:
 
     * Initial release
@@ -237,16 +245,18 @@ dash:
 Now you can create your own repository at [Open SUSE Build Service](https://build.opensuse.org/)
 and check if everything works there too. You will need to upload there all
 three files. If everything is working, congratulation, you built your
-first Debian package. :)
+first Debian package. :) To add the package to the Ada Linux Packages
+Repository, use option *Submit package*.
 
 ### Notes
 
 * If you build the package in your normal system, not in container, file
   *packagename_version.dsc* will be signed with your GPG key. Unfortunately,
-  OBS doesn't know your GPG key or even doesn't have installed GPG during build
-  a package, thus you need to remove signature from the file. Normally, it is a
-  bad idea, but there is no other option. Open file *packagename_version.dsc*
-  in your text editor and delete first three lines (up to Format line) and last
-  12 lines (from the empty line after the last checksum).
+  openSUSE Build Servive doesn't know your GPG key or even doesn't have
+  installed the GPG during build a package, thus you need to remove
+  signature from the file. Normally, it is a bad idea, but there is no
+  other option. Open file *packagename_version.dsc*
+  in your text editor and delete first three lines (up to Format line) and
+  the last twelve lines (from the empty line after the last checksum).
 * You can find all files related to the tutorial on the [bob](https://build.opensuse.org/package/show/home:thindil/bob)
   package page.
