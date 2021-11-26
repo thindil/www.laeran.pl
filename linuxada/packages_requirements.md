@@ -13,8 +13,9 @@ changes to the document.
 ### History
 
 * 18.11.2021 - Created
+* 25.11.2021 - Added requirements for packages' dependencies
 
-### Naming convention:
+### Naming convention
 
 1. The package's name can have any name you want. Of course, if a
    package with the same name exists in the repository, you will be asked
@@ -45,6 +46,15 @@ changes to the document.
    convention of the source code files. Keeping with them will reduce the
    amount of work needed to create them. Also, it will remove double data from
    the repository.
+
+### Dependencies
+
+1. If possible, the package should use to build and run available packages
+   from a distribution repository.
+
+   Reason: It reduces the amount of packages needed to maintain in the
+   repository. Also, it allows better integration with the selected
+   distribution and causes fewer conflicts with existing packages.
 
 ### Testing packages
 
