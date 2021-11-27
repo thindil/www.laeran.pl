@@ -17,7 +17,7 @@ license.
 Not all the packages are available for every distribution, same with various
 architectures. At this moment available repositories are:
 
-* Ubuntu 21.10 x86_64 arm64
+* [Ubuntu 21.10](ubuntu_21_10.html)
 * Debian 11 x86_64 arm64
 * Debian Testing x86_64 arm64
 * Raspbian 11 arm64 armhf
@@ -45,17 +45,6 @@ subject to change. Be ready for everything. :)
 First you have to add the repository to your repositories list. You can also
 skip this step and download directly packages, but then you will not have
 option to obtain automatically updates to them.
-
-* For xUbuntu 21.10 run the following:
-
-Keep in mind that the owner of the key may distribute updates, packages and
-repositories that your system will trust ([more information](https://help.ubuntu.com/community/SecureApt)). In console enter:
-
-    echo 'deb http://download.opensuse.org/repositories/home:/thindil/xUbuntu_21.10/ /' | sudo tee /etc/apt/sources.list.d/home:thindil.list
-
-    curl -fsSL https://download.opensuse.org/repositories/home:thindil/xUbuntu_21.10/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/home_thindil.gpg > /dev/null
-
-    sudo apt update
 
 * For Debian 11 run the following:
 
