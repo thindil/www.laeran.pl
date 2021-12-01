@@ -21,3 +21,6 @@ In a console enter:
     sudo apt update
 
 You can also skip this step and download the selected package(s) directory, but then you will not have option to obtain automatically updates to them.
+
+The same detailed information about how to install each package you can find at
+download page of the package. For example, for [yass](https://software.opensuse.org//download.html?project=home%3Athindil&package=yass).
