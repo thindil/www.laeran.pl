@@ -106,6 +106,14 @@ subject to change. Be ready for everything. :)
 
 ### Tutorials
 
+All the tutorials are designed to be independent of each other. Thus, much
+information, especially general, in them will be overlapping. However, it is not
+required to read all of them to find desired information.
+
 1. [Creating simple binary package for Debian](debian_tutorial.html) describes
    how to create a simple binary package for the repository for Debian
    distribution.
+2. [Creating simple library package for Debian](debian_tutorial_library.html) describes
+   how to create a simple library package (exactly three packages from one
+   project: library itself, development files and development documentation)
+   for the repository for Debian distribution.
