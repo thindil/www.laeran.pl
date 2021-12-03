@@ -62,12 +62,13 @@ a.back {
 
 pre {
     background: black;
-    width: min-content;
+    width: 75%;
     margin-left: 5px;
     margin-right: 5px;
     border-radius: 5px;
     white-space: pre-wrap;
     padding: 10px;
+    margin: auto;
 }
 
 pre code {
