@@ -29,16 +29,13 @@ to the FAQ section.
 
 ## Status
 
-Current status of the project is [SNAFU](https://en.wikipedia.org/wiki/SNAFU).
+Current status of the project is **ready**.
 
 There are several packages available, but the repository still needs some work,
 mostly related to the documentation and to making packages more various
 distributions standards friendly. They **should** work but they content and
 names can change from time to time. Any help in that matter is more than
 welcomed. :)
-
-**WARNING:** This document is under construction now thus, everything here is
-subject to change. Be ready for everything. :)
 
 ## FAQ
 
@@ -108,12 +105,16 @@ subject to change. Be ready for everything. :)
 
 All the tutorials are designed to be independent of each other. Thus, much
 information, especially general, in them will be overlapping. However, it is not
-required to read all of them to find desired information.
+required to read all of them to find desired information. But tips and tricks
+tutorial requires reading the previous one.
 
 1. [Creating simple binary package for Debian](debian_tutorial.html) describes
    how to create a simple binary package for the repository for Debian
    distribution.
-2. [Creating simple library package for Debian](debian_tutorial_library.html) describes
-   how to create a simple library package (exactly three packages from one
-   project: library itself, development files and development documentation)
-   for the repository for Debian distribution.
+2. [Creating simple library package for Debian](debian_tutorial_library.html)
+   describes how to create a simple library package (exactly three packages
+   from one project: library itself, development files and development
+   documentation) for the repository for Debian distribution.
+3. [Tips and tricks for creating Debian packages](debian_tips_and_tricks.html)
+   describes tricks useful during creating a Debian package, not covered by
+   the previous tutorials.
