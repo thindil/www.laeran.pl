@@ -1,6 +1,7 @@
--- layout: blog
+-- layout: default
 -- title: How can we help fight COVID-19
 -- summary: How we can help find the cure for COVID-19 by using our computers and smartphones
+-- backlink: ../index.html
 The blog entry should probably appear around one year earlier. But it is better
 to be later than never. :) Anyway, back to the topic.
 

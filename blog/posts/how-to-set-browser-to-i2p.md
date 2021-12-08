@@ -1,6 +1,7 @@
--- layout: blog
+-- layout: default
 -- title: How to set browser to I2P
 -- summary: How to set up a desktop browsers to use them with I2P
+-- backlink: ../index.html
 From [the official site](https://geti2p.net/en/):
 
 > I2P is an anonymous network built on top of the internet. It allows users

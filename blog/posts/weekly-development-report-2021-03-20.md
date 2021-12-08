@@ -1,6 +1,7 @@
--- layout: blog
+-- layout: default
 -- title: Weekly development report 2021-03-20
 -- summary: Weekly development report from Bartek Jasicki various Open Source projects
+-- backlink: ../index.html
 
 Welcome to the weekly development report or what was done in my Open Source
 projects in the last week. Generally, the fun with static code analysis

@@ -1,6 +1,7 @@
--- layout: blog
+-- layout: default
 -- title: Ada Mythology
 -- summary: Various myths related to the Ada programming language
+-- backlink: ../index.html
 Over time during talks with other people I encountered many myths related to
 the Ada programming language. As a bit lazy person I don't want to
 demystify them over and over, thus I write them here, so I can point later to

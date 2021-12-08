@@ -1,6 +1,7 @@
--- layout: blog
+-- layout: default
 -- title: Weekly development report 2020-12-19
 -- summary: Weekly development report from Bartek Jasicki various Open Source projects
+-- backlink: ../index.html
 Welcome to the weekly development report or what was done in my Open Source
 projects in the last week. The work on moving my Open Source projects slowly
 going forward. Another two repositories are migrated from Git to Fossil. But

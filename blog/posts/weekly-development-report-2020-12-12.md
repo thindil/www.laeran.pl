@@ -1,6 +1,7 @@
--- layout: blog
+-- layout: default
 -- title: Weekly development report 2020-12-12
 -- summary: Weekly development report from Bartek Jasicki various Open Source projects
+-- backlink: ../index.html
 Welcome to the weekly development report or what was done in my Open Source
 projects in the last week. This time, the introduction will be a bit longer. At
 the beginning of the week I (finally) discovered [Fossil SCM](https://www.fossil-scm.org/).

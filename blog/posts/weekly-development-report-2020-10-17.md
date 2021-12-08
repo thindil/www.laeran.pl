@@ -1,6 +1,7 @@
--- layout: blog
+-- layout: default
 -- title: Weekly development report 2020-10-17
 -- summary: Weekly development report from Bartek Jasicki various Open Source projects
+-- backlink: ../index.html
 Welcome to the first and I hope not last development report or what was done in
 my Open Source projects in the last week. At least this week was a bit
 productive :)

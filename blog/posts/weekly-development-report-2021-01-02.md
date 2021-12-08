@@ -1,6 +1,7 @@
--- layout: blog
+-- layout: default
 -- title: Weekly development report 2021-01-02
 -- summary: Weekly development report from Bartek Jasicki various Open Source projects
+-- backlink: ../index.html
 At the start: happy new year for everyone :) Let's hope this one will be better
 than the old. Now, back to the routine.
 
