@@ -5,6 +5,8 @@
 -- devbloglinkstext2022: []
 -- devbloglinks2022: posts/devblog/2022/weekly-development-report-2022-01-01.html
 -- devbloglinkstext2022: 2022-01-01
+-- devbloglinks2022: posts/devblog/2022/weekly-development-report-2022-01-08.html
+-- devbloglinkstext2022: 2022-01-08
 -- devbloglinks2021: []
 -- devbloglinkstext2021: []
 -- devbloglinks2021: posts/devblog/2021/weekly-development-report-2021-12-25.html
