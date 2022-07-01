@@ -16,9 +16,6 @@
 -- adalinks: adasearch.html
 -- adalinkstext: Ada Search
 -- adalinksdesc: Google and searchcode powered search engines focused on th Ada programming language and SPARK.
--- adalinks: linuxada/index.html
--- adalinkstext: Ada Linux Packages Repository
--- adalinksdesc: Information about repository with Ada programming language related packages for various Linux distributions.
 -- otherlinks: repositories
 -- otherlinkstext: Open Source Projects
 -- otherlinksdesc: The list of Fossil repositories of my Open Source Projects.
