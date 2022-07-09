@@ -3,6 +3,8 @@
 -- summary: Personal blog of Bartek Jasicki, random thoughts about random things. Mostly weekly reports from Open Source projects.
 -- devbloglinks2022: []
 -- devbloglinkstext2022: []
+-- devbloglinks2022: posts/devblog/2022/weekly-development-report-2022-07-09.html
+-- devbloglinkstext2022: 2022-07-09
 -- devbloglinks2022: posts/devblog/2022/weekly-development-report-2022-07-02.html
 -- devbloglinkstext2022: 2022-07-02
 -- devbloglinks2022: posts/devblog/2022/weekly-development-report-2022-06-25.html
