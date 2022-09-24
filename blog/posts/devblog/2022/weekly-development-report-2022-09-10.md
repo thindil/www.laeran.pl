@@ -1,5 +1,5 @@
 -- layout: default
--- title: Weekly development report 2022-09-03
+-- title: Weekly development report 2022-09-10
 -- summary: Weekly development report from Bartek Jasicki various Open Source projects
 -- backlink: ../../../index.html
 
