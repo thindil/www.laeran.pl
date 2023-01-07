@@ -1,6 +1,10 @@
 -- layout: blogindex
 -- title: Random thoughts about random things.
 -- summary: Personal blog of Bartek Jasicki, random thoughts about random things. Mostly weekly reports from Open Source projects.
+-- devbloglinks2023: []
+-- devbloglinkstext2023: []
+-- devbloglinks2023: posts/devblog/2023/weekly-development-report-2023-01-07.html
+-- devbloglinkstext2023: 2023-01-07
 -- devbloglinks2022: []
 -- devbloglinkstext2022: []
 -- devbloglinks2022: posts/devblog/2022/weekly-development-report-2022-12-31.html
