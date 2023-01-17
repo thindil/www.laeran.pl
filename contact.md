@@ -1,14 +1,11 @@
 -- layout: default
 -- title: Contact page
--- summary: How to contact with admin of www.laeran.pl
-If you need to contact with me in any case, you have few options:
+-- summary: How to contact with admin of the website.
+If you need to contact with me in any case, you have several options:
 
-- Matrix: Link which is in the page footer (preferred option).
-- Email: thindil at laeran.pl
+- Matrix: Link which is in the website footer (the preferred option).
+- Email: thindil at laeran.pl.eu.org
 - Mastodon: [thindil at mastodon.social](https://mastodon.social/@thindil)
 - Twitter: [thindil at twitter.com](https://twitter.com/thindil)
 - Reddit: [thindil at reddit.com](https://www.reddit.com/user/thindil)
 - GitHub: [thindil at github.com](https://github.com/thindil)
-
-If you need my GPG key, you can find it (and links to my other accounts on the
-net) at [Keybase](https://keybase.io/thindil).
