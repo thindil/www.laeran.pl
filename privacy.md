@@ -1,13 +1,13 @@
 -- layout: default
 -- title: Terms of service and Privacy
--- summary: Terms of service and Privacy information related to the www.laeran.pl
+-- summary: Terms of service and Privacy information related to the www.laeran.pl and www.laeran.pl.eu.org
 This document was added to the website in Mar 2019 in order to assure compliance with the [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation); a regulation in the European Union on data protection and privacy for all individuals within the European Union (EU) and the European Economic Area (EEA).
 
-The website [https://www.laeran.pl/](https://www.laeran.pl/) is hosted in Poland and subject to this regulation.
+The website [https://www.laeran.pl/](https://www.laeran.pl/) and [https://www.laeran.pl.eu.org/](https://www.laeran.pl.eu.org/) is hosted in Poland and subject to this regulation.
 
 ## Who we are
 
-My name is Bartek Jasicki (nickname `thindil`) and I own the website published at the address [https://www.laeran.pl/](https://www.laeran.pl/). Therefore, I'm the only responsible for managing your data collected on the mentioned website (except about "embedded content from other websites", see below).
+My name is Bartek Jasicki (nickname `thindil`) and I own the website published at the addresses [https://www.laeran.pl/](https://www.laeran.pl/) and [https://www.laeran.pl.eu.org/](https://www.laeran.pl.eu.org/). Therefore, I'm the only responsible for managing your data collected on the mentioned website (except about "embedded content from other websites", see below).
 
 ## What personal data we collect, why we collect it, and how long we retain it
 
