@@ -9,6 +9,9 @@
       @@IF@@ {%EXIST:summary%}
       <meta name="description" content="{%summary%}">
       @@END_IF@@
+      @@IF@@ {%EXIST:Mastodon%}
+      <link rel="me" href="https://mastodon.social/@{%Mastodon%}" />
+      @@END_IF@@
       <link rel="canonical" href="{%canonicallink%}" />
       <link href="{%BaseURL%}/assets/css/style.css" rel="stylesheet" />
       <title>{%title%} | {%Name%}</title>
