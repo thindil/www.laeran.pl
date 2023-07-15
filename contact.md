@@ -4,7 +4,7 @@
 My name is *Bartek Jasicki*, my nickname is *thindil*. Pronouns: *he/him*. If
 you have any question or issue to me, you can use one of the options:
 
-- Jabber: [thindil@lightwitch.org](xmpp:thindil@lighwitch.org) (preferred option)
+- Jabber: [thindil@lightwitch.org](xmpp:thindil@lightwitch.org) (preferred option)
 - Email: thindil at laeran.pl.eu.org
 - Mastodon: [thindil at mastodon.social](https://mastodon.social/@thindil)
 - GitHub: [thindil at github.com](https://github.com/thindil)
